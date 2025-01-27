@@ -23,7 +23,4 @@ A log of profile exchanges made through the app.
 ## analysis_and_visualization.ipynb
 A Google Colab notebook containing code for data aggregation, statistical analysis, and visualization.
 * Inputs: presentations_vectors.csv, author_relations.csv, attendees.csv, connections.csv
-* Outputs: country_relations.gexf, field_relations.gexf
-
-## country_relations.gexf
-## field_relations.gexf
+* Outputs: country_relations.gexf, field_relations.gexf, and other figures (PDF, SVG)
