@@ -1,0 +1,3973 @@
+﻿,attendee_id,country,attend_as,field
+0,A00016,Japan,General,17
+1,A00017,Japan,General,8
+2,A00018,France,General,13
+3,A00019,Germany,General,5
+4,A00020,Germany,General,5
+5,A00021,France,General,3
+6,A00022,France,General,3
+7,A00023,UK,General,16
+8,A00024,Germany,General,4
+9,A00025,United States of America,General,14
+10,A00026,Brazil,Student,
+11,A00027,Japan,General,
+12,A00029,India,Student,
+13,A00030,Australia,General,13
+14,A00031,Australia,General,4
+15,A00032,UK,Student,14
+16,A00033,United States of America,General,14
+17,A00035,Japan,General,17
+18,A00036,Poland,General,17
+19,A00037,Taiwan,Student,13
+20,A00038,Canada,General,3
+21,A00039,Japan,General,10
+22,A00040,Estonia,General,
+23,A00041,Japan,General,7
+24,A00042,France,General,17
+25,A00043,Taiwan,Student,14
+26,A00044,United States of America,General,7
+27,A00045,Japan,General,1
+28,A00046,Japan,General,3
+29,A00047,China,Student,12
+30,A00048,China,General,12
+31,A00050,Republic of North Macedonia,General,
+32,A00051,Japan,General,10
+33,A00052,Japan,General,3
+34,A00053,Japan,General,8
+35,A00054,Japan,General,10
+36,A00055,Japan,General,16
+37,A00056,Finland,General,5
+38,A00057,Japan,General,15
+39,A00058,United States of America,General,4
+40,A00059,China,General,4
+41,A00060,Belgium,Student,10
+42,A00061,Taiwan,General,16
+43,A00062,Japan,General,
+44,A00064,Japan,General,8
+45,A00065,Japan,General,16
+46,A00066,UK,General,10
+47,A00067,United States of America,General,0
+48,A00068,United States of America,General,
+49,A00069,Thailand,General,3
+50,A00070,United States of America,General,
+51,A00071,United States of America,General,13
+52,A00072,United States of America,General,7
+53,A00073,Japan,General,4
+54,A00074,United States of America,General,
+55,A00075,Chile,General,11
+56,A00076,India,Developing country (*上記注釈をご参照ください),8
+57,A00077,Canada,General,4
+58,A00078,Japan,General,14
+59,A00079,Japan,General,
+60,A00080,Taiwan,Student,17
+61,A00081,Slovenia,General,15
+62,A00082,France,General,
+63,A00083,Japan,General,10
+64,A00084,Poland,General,16
+65,A00085,UK,General,15
+66,A00086,United States of America,General,3
+67,A00087,Slovenia,Accompanying guest,
+68,A00088,Japan,General,5
+69,A00089,Japan,Guest (*このカテゴリは選択しないでください),16
+70,A00090,India,Developing country (*上記注釈をご参照ください),
+71,A00091,United States of America,General,9
+72,A00092,United States of America,General,9
+73,A00093,Japan,General,7
+74,A00094,Japan,General,14
+75,A00095,France,General,14
+76,A00096,Japan,General,
+77,A00097,India,Student,10
+78,A00098,United States of America,General,17
+79,A00099,Belgium,General,16
+80,A00100,United States of America,General,10
+81,A00101,Japan,General,16
+82,A00102,United States of America,General,10
+83,A00103,Japan,General,1
+84,A00104,Japan,General,9
+85,A00105,Japan,General,14
+86,A00106,Pakistan,Developing country (*上記注釈をご参照ください),
+87,A00107,Taiwan,General,8
+88,A00108,Japan,General,11
+89,A00109,United States of America,General,13
+90,A00110,Japan,General,7
+91,A00111,Japan,General,1
+92,A00112,Japan,General,10
+93,A00113,Japan,General,3
+94,A00114,Japan,General,14
+95,A00115,Pakistan,Developing country (*上記注釈をご参照ください),
+96,A00116,Japan,General,16
+97,A00117,Cambodia,Developing country (*上記注釈をご参照ください),5
+98,A00118,Japan,General,17
+99,A00119,United States of America,General,20
+100,A00120,United States of America,General,7
+101,A00121,Japan,General,14
+102,A00122,United States of America,General,7
+103,A00123,Japan,General,18
+104,A00124,Japan,Student,18
+105,A00125,China,Student,10
+106,A00126,China,Student,6
+107,A00127,China,Student,8
+108,A00128,China,Student,10
+109,A00129,China,Student,10
+110,A00130,Taiwan,General,13
+111,A00131,China,General,7
+112,A00132,Australia,Student,3
+113,A00133,India,Developing country (*上記注釈をご参照ください),16
+114,A00134,Japan,General,16
+115,A00135,France,General,13
+116,A00136,Australia,Student,
+117,A00137,Australia,Student,17
+118,A00138,Australia,Student,12
+119,A00139,Singapore,General,8
+120,A00140,Japan,General,18
+121,A00141,Spain,General,8
+122,A00142,Spain,General,6
+123,A00143,Spain,General,7
+124,A00144,Canada,General,16
+125,A00145,Canada,General,7
+126,A00146,China,General,3
+127,A00147,Japan,General,10
+128,A00148,United States of America,General,18
+129,A00149,Germany,General,7
+130,A00150,China,Student,9
+131,A00151,Croatia,General,12
+132,A00152,United States of America,General,
+133,A00153,Finland,General,13
+134,A00154,UK,General,8
+135,A00155,United States of America,General,10
+136,A00156,Canada,General,7
+137,A00157,Japan,General,3
+138,A00158,Bangladesh,Student,3
+139,A00159,China,General,18
+140,A00160,UK,General,6
+141,A00161,United States of America,General,14
+142,A00162,United States of America,General,3
+143,A00163,Japan,General,3
+144,A00164,UK,General,15
+145,A00165,Portugal,General,5
+146,A00166,Greece,General,3
+147,A00167,UK,General,7
+148,A00168,Japan,Student,7
+149,A00169,Italy,General,3
+150,A00170,Japan,General,11
+151,A00171,Japan,General,5
+152,A00172,Belgium,General,16
+153,A00173,Japan,General,2
+154,A00174,Japan,General,15
+155,A00175,Japan,General,8
+156,A00176,Czech Republic,General,4
+157,A00177,Morocco,Developing country (*上記注釈をご参照ください),11
+158,A00178,South Africa,Student,3
+159,A00179,Canada,General,16
+160,A00180,Japan,General,9
+161,A00181,Japan,General,2
+162,A00182,United States of America,General,7
+163,A00183,United States of America,General,14
+164,A00184,Brazil,Student,
+165,A00185,United States of America,General,11
+166,A00186,Japan,Student,7
+167,A00187,Indonesia,General,
+168,A00188,Belgium,Student,16
+169,A00189,Japan,General,2
+170,A00190,Japan,General,1
+171,A00191,Spain,General,16
+172,A00192,Japan,General,7
+173,A00193,Belgium,General,7
+174,A00194,Finland,Student,4
+175,A00195,UK,General,14
+176,A00196,United States of America,General,13
+177,A00197,United States of America,Student,
+178,A00198,United States of America,General,7
+179,A00199,United States of America,General,
+180,A00200,Japan,General,7
+181,A00201,Bangladesh,Developing country (*上記注釈をご参照ください),14
+182,A00202,France,General,10
+183,A00203,France,General,10
+184,A00204,United States of America,General,10
+185,A00205,Italy,General,3
+186,A00206,France,General,10
+187,A00207,Italy,General,20
+188,A00208,United States of America,Student,7
+189,A00209,Japan,General,7
+190,A00210,Japan,General,7
+191,A00211,China,General,1
+192,A00212,Australia,General,19
+193,A00213,South Africa,Developing country (*上記注釈をご参照ください),
+194,A00214,France,General,
+195,A00215,South Africa,General,13
+196,A00216,UK,Student,17
+197,A00217,Japan,General,11
+198,A00218,Japan,Student,7
+199,A00219,Poland,General,16
+200,A00220,UK,General,6
+201,A00221,China,General,3
+202,A00222,United States of America,General,2
+203,A00223,Japan,General,15
+204,A00224,Japan,General,13
+205,A00225,Japan,General,14
+206,A00226,Canada,General,16
+207,A00227,Australia,General,15
+208,A00228,Japan,General,2
+209,A00229,Sweden,General,12
+210,A00230,United States of America,General,14
+211,A00231,United States of America,General,14
+212,A00232,Australia,General,7
+213,A00233,UK,Student,15
+214,A00234,Japan,General,18
+215,A00235,Australia,General,18
+216,A00236,Croatia,General,5
+217,A00237,Canada,Student,13
+218,A00238,United States of America,General,
+219,A00239,Taiwan,General,4
+220,A00240,Japan,General,14
+221,A00241,Taiwan,General,14
+222,A00242,Taiwan,Student,14
+223,A00243,Japan,General,12
+224,A00244,Germany,General,14
+225,A00245,Japan,General,7
+226,A00246,Netherlands,Student,7
+227,A00247,United States of America,Student,18
+228,A00248,Ghana,Developing country (*上記注釈をご参照ください),
+229,A00249,Japan,General,14
+230,A00250,China,General,15
+231,A00251,Uruguay,General,18
+232,A00252,Thailand,Student,10
+233,A00253,Japan,General,7
+234,A00254,Spain,General,3
+235,A00255,UK,General,7
+236,A00256,United States of America,General,13
+237,A00257,Japan,General,16
+238,A00258,Japan,General,16
+239,A00259,Italy,General,18
+240,A00260,United States of America,General,16
+241,A00261,Australia,General,11
+242,A00262,United States of America,General,7
+243,A00263,United States of America,Student,14
+244,A00264,United States of America,General,12
+245,A00265,Japan,General,20
+246,A00266,Japan,General,8
+247,A00267,Taiwan,General,13
+248,A00268,Netherlands,Student,
+249,A00269,Taiwan,Student,14
+250,A00270,Switzerland,Student,
+251,A00271,Italy,General,7
+252,A00272,Italy,Student,10
+253,A00273,Germany,General,18
+254,A00274,Germany,Student,5
+255,A00275,United States of America,General,14
+256,A00276,Japan,General,5
+257,A00277,China,Student,10
+258,A00278,Japan,General,17
+259,A00279,Singapore,Student,5
+260,A00280,United States of America,General,13
+261,A00281,Japan,General,18
+262,A00282,China,Student,5
+263,A00283,Japan,General,6
+264,A00284,Japan,Student,7
+265,A00285,Singapore,General,14
+266,A00286,Switzerland,General,4
+267,A00287,Switzerland,General,7
+268,A00288,United States of America,General,4
+269,A00289,Australia,Student,11
+270,A00290,Czech Republic,General,16
+271,A00291,Spain,General,3
+272,A00292,India,Developing country (*上記注釈をご参照ください),16
+273,A00293,Canada,General,2
+274,A00294,Sweden,Student,14
+275,A00295,United States of America,General,3
+276,A00296,Japan,General,2
+277,A00297,China,General,10
+278,A00298,Taiwan,General,7
+279,A00299,Taiwan,General,
+280,A00300,Japan,General,14
+281,A00301,Japan,General,14
+282,A00302,Japan,General,16
+283,A00304,Japan,General,4
+284,A00305,Germany,General,
+285,A00306,Romania,Student,
+286,A00307,France,General,4
+287,A00308,Hungary,General,14
+288,A00309,UK,General,3
+289,A00310,Australia,General,14
+290,A00311,Japan,General,16
+291,A00312,China,General,20
+292,A00313,Philippines,Developing country (*上記注釈をご参照ください),14
+293,A00314,Japan,Student,14
+294,A00315,France,General,5
+295,A00316,UK,General,14
+296,A00317,Belgium,Student,8
+297,A00318,Spain,General,14
+298,A00319,Canada,General,20
+299,A00320,Taiwan,General,13
+300,A00321,China,General,18
+301,A00322,Italy,General,3
+302,A00323,Taiwan,General,14
+303,A00324,Canada,Student,14
+304,A00325,Italy,General,14
+305,A00326,Italy,General,14
+306,A00327,United States of America,General,12
+307,A00328,Taiwan,General,13
+308,A00329,Australia,General,19
+309,A00330,Japan,General,16
+310,A00331,Taiwan,General,16
+311,A00332,Taiwan,Student,14
+312,A00333,UK,General,14
+313,A00335,Japan,General,20
+314,A00336,United States of America,General,10
+315,A00337,Italy,General,1
+316,A00338,Taiwan,General,14
+317,A00339,Japan,Student,
+318,A00340,Japan,General,13
+319,A00341,Czech Republic,General,
+320,A00342,Germany,General,17
+321,A00343,United States of America,Student,15
+322,A00344,Japan,General,1
+323,A00345,Japan,General,14
+324,A00346,United States of America,General,14
+325,A00347,Japan,General,2
+326,A00348,Japan,General,14
+327,A00349,Japan,General,14
+328,A00350,Belgium,General,7
+329,A00351,UK,General,3
+330,A00352,Germany,General,14
+331,A00353,United States of America,General,4
+332,A00354,United States of America,General,7
+333,A00355,United States of America,General,3
+334,A00356,Greece,General,11
+335,A00357,United States of America,General,14
+336,A00359,United States of America,General,7
+337,A00360,Japan,General,14
+338,A00361,Japan,Student,18
+339,A00362,UK,General,14
+340,A00363,France,General,12
+341,A00364,South Africa,General,5
+342,A00365,Taiwan,General,14
+343,A00366,United States of America,General,5
+344,A00367,United States of America,General,14
+345,A00368,United States of America,Student,16
+346,A00369,United States of America,General,6
+347,A00370,Japan,Student,14
+348,A00371,Japan,General,16
+349,A00372,Japan,General,8
+350,A00373,South Africa,General,14
+351,A00374,Japan,Student,3
+352,A00375,Japan,General,5
+353,A00376,UK,General,7
+354,A00377,China,General,1
+355,A00378,Belgium,Student,12
+356,A00379,India,Developing country (*上記注釈をご参照ください),5
+357,A00380,Germany,General,7
+358,A00381,Spain,General,14
+359,A00382,United States of America,General,16
+360,A00383,Portugal,General,4
+361,A00384,United States of America,General,6
+362,A00385,United States of America,Student,12
+363,A00386,United States of America,General,16
+364,A00387,United States of America,General,
+365,A00388,Jersey,General,
+366,A00389,Belgium,Student,10
+367,A00390,United States of America,General,18
+368,A00391,United States of America,Student,8
+369,A00392,United States of America,General,14
+370,A00393,China,General,10
+371,A00394,Korea,Student,18
+372,A00395,China,Student,6
+373,A00396,Australia,General,14
+374,A00397,Japan,Student,18
+375,A00398,Japan,Student,1
+376,A00399,Switzerland,General,4
+377,A00400,Switzerland,General,4
+378,A00401,Japan,General,7
+379,A00402,China,General,10
+380,A00403,Denmark,General,7
+381,A00404,Belgium,General,5
+382,A00405,United States of America,General,7
+383,A00406,United States of America,Student,18
+384,A00407,Estonia,General,14
+385,A00408,Estonia,General,5
+386,A00409,United States of America,General,13
+387,A00410,China,General,7
+388,A00411,United States of America,General,7
+389,A00412,Netherlands,General,7
+390,A00413,United States of America,General,10
+391,A00414,Portugal,General,10
+392,A00415,France,Student,7
+393,A00416,Japan,General,18
+394,A00417,United States of America,General,4
+395,A00418,Canada,General,15
+396,A00419,United States of America,Student,18
+397,A00420,Japan,General,14
+398,A00421,Australia,General,15
+399,A00422,Japan,General,15
+400,A00423,Australia,General,16
+401,A00424,United States of America,General,15
+402,A00425,United States of America,Accompanying guest,
+403,A00426,Japan,General,12
+404,A00427,Japan,General,14
+405,A00428,China,General,10
+406,A00429,Japan,General,14
+407,A00430,India,Developing country (*上記注釈をご参照ください),18
+408,A00431,France,General,16
+409,A00432,Japan,General,5
+410,A00433,Germany,General,7
+411,A00434,China,Student,7
+412,A00435,France,General,3
+413,A00436,France,Student,7
+414,A00437,France,General,7
+415,A00438,France,General,18
+416,A00439,France,Student,17
+417,A00440,Pakistan,Developing country (*上記注釈をご参照ください),0
+418,A00441,United States of America,Student,18
+419,A00442,Germany,General,18
+420,A00443,Korea,General,11
+421,A00444,Japan,General,7
+422,A00445,China,General,16
+423,A00446,Japan,Student,16
+424,A00447,UK,General,5
+425,A00448,Japan,Student,13
+426,A00449,United States of America,General,15
+427,A00450,Japan,General,2
+428,A00451,Japan,General,16
+429,A00452,Japan,General,14
+430,A00453,Japan,General,
+431,A00454,Japan,General,14
+432,A00455,Japan,General,10
+433,A00456,Thailand,Student,12
+434,A00457,UK,General,3
+435,A00458,UK,General,16
+436,A00459,Spain,General,14
+437,A00460,UK,General,16
+438,A00461,Brazil,General,3
+439,A00462,Greece,General,14
+440,A00463,United States of America,General,7
+441,A00464,Czech Republic,Student,4
+442,A00465,UK,General,14
+443,A00466,Spain,General,16
+444,A00467,Italy,General,3
+445,A00468,United States of America,Student,14
+446,A00469,Mexico,Student,16
+447,A00470,United States of America,General,18
+448,A00471,United States of America,General,13
+449,A00472,Japan,General,7
+450,A00473,Japan,General,9
+451,A00474,Japan,General,11
+452,A00475,Japan,General,5
+453,A00476,Japan,General,14
+454,A00477,Japan,General,6
+455,A00478,Philippines,Developing country (*上記注釈をご参照ください),14
+456,A00479,Sweden,General,7
+457,A00480,Czech Republic,General,16
+458,A00481,Italy,Student,7
+459,A00482,UK,Student,7
+460,A00484,United States of America,Student,5
+461,A00485,Germany,General,15
+462,A00486,Taiwan,General,14
+463,A00487,China,Student,16
+464,A00488,Portugal,General,10
+465,A00489,China,Student,6
+466,A00490,Portugal,General,17
+467,A00491,Portugal,Student,10
+468,A00492,France,General,3
+469,A00493,Japan,Student,
+470,A00494,United States of America,General,16
+471,A00495,India,Developing country (*上記注釈をご参照ください),15
+472,A00496,Australia,Student,11
+473,A00497,China,General,
+474,A00498,Poland,Student,20
+475,A00499,Philippines,Developing country (*上記注釈をご参照ください),15
+476,A00500,Korea,General,3
+477,A00501,Belgium,Student,3
+478,A00502,France,General,16
+479,A00503,Tunisia,Developing country (*上記注釈をご参照ください),
+480,A00504,France,General,10
+481,A00505,Brazil,General,12
+482,A00506,Mexico,General,7
+483,A00507,Canada,Student,5
+484,A00508,China,General,3
+485,A00509,Japan,General,19
+486,A00510,Taiwan,General,18
+487,A00511,Japan,Student,16
+488,A00512,Japan,General,17
+489,A00513,Japan,Student,8
+490,A00514,Kenya,Developing country (*上記注釈をご参照ください),11
+491,A00515,Turkey,General,10
+492,A00516,France,General,7
+493,A00517,France,Student,15
+494,A00518,France,General,6
+495,A00519,Germany,General,14
+496,A00520,Taiwan,Student,13
+497,A00521,Poland,General,18
+498,A00522,France,Developing country (*上記注釈をご参照ください),4
+499,A00523,France,General,8
+500,A00524,Germany,General,7
+501,A00525,France,Student,8
+502,A00526,Belgium,General,5
+503,A00527,Belgium,Student,11
+504,A00528,Belgium,Student,11
+505,A00529,UK,General,5
+506,A00530,United States of America,General,18
+507,A00531,France,General,17
+508,A00532,Japan,General,2
+509,A00533,United States of America,General,8
+510,A00534,United States of America,General,8
+511,A00535,Japan,General,13
+512,A00536,Israel,General,19
+513,A00537,India,Student,6
+514,A00538,Japan,General,18
+515,A00539,Japan,Student,5
+516,A00540,Taiwan,Accompanying guest,
+517,A00541,United States of America,Student,18
+518,A00542,Malaysia,General,5
+519,A00543,Japan,General,14
+520,A00544,Czech Republic,General,10
+521,A00545,Greece,General,16
+522,A00546,Japan,General,7
+523,A00547,Australia,General,14
+524,A00548,Australia,Student,7
+525,A00549,Japan,General,10
+526,A00550,Japan,General,14
+527,A00551,Taiwan,General,14
+528,A00552,Taiwan,Student,
+529,A00553,Japan,General,15
+530,A00554,Japan,Student,5
+531,A00555,Pakistan,Developing country (*上記注釈をご参照ください),14
+532,A00556,Taiwan,General,19
+533,A00557,Japan,General,16
+534,A00558,Nepal,Developing country (*上記注釈をご参照ください),11
+535,A00559,Pakistan,Developing country (*上記注釈をご参照ください),14
+536,A00560,Japan,General,5
+537,A00561,Japan,General,14
+538,A00562,Czech Republic,General,16
+539,A00563,Italy,General,3
+540,A00564,UK,General,13
+541,A00565,Sweden,General,7
+542,A00566,Sweden,General,7
+543,A00567,Japan,General,11
+544,A00568,UK,Student,14
+545,A00569,Germany,General,6
+546,A00570,Poland,General,12
+547,A00571,United States of America,General,13
+548,A00572,Japan,General,17
+549,A00573,UK,General,8
+550,A00574,Spain,Student,16
+551,A00575,Belgium,General,4
+552,A00576,Korea,Student,15
+553,A00577,Japan,General,20
+554,A00578,United States of America,General,20
+555,A00579,United States of America,General,20
+556,A00580,Germany,Student,18
+557,A00581,United States of America,General,10
+558,A00582,United States of America,General,7
+559,A00583,United States of America,General,15
+560,A00584,United States of America,Student,10
+561,A00585,Germany,General,18
+562,A00586,New Zealand,Student,11
+563,A00587,Japan,General,7
+564,A00588,Japan,General,19
+565,A00589,Korea,General,14
+566,A00590,Canada,General,3
+567,A00591,United States of America,Student,8
+568,A00592,Japan,Student,7
+569,A00593,Hong Kong,Student,5
+570,A00594,Thailand,General,14
+571,A00595,Israel,Student,19
+572,A00596,Japan,General,10
+573,A00597,Taiwan,General,13
+574,A00598,Thailand,General,14
+575,A00599,France,General,17
+576,A00600,Germany,General,5
+577,A00601,Spain,General,7
+578,A00602,Belgium,Student,17
+579,A00603,UK,General,17
+580,A00604,Spain,General,7
+581,A00605,India,Student,13
+582,A00606,Chile,General,12
+583,A00607,UK,General,15
+584,A00608,UK,Student,16
+585,A00609,Mexico,General,7
+586,A00610,UK,Student,
+587,A00611,Portugal,General,4
+588,A00612,United States of America,General,6
+589,A00613,South Africa,General,14
+590,A00614,United States of America,General,14
+591,A00616,Japan,Student,19
+592,A00618,China,Student,14
+593,A00619,Japan,General,13
+594,A00620,Japan,Student,13
+595,A00622,South Africa,General,11
+596,A00623,China,General,10
+597,A00624,Japan,General,15
+598,A00625,China,General,9
+599,A00626,Japan,General,14
+600,A00627,Japan,General,14
+601,A00628,South Africa,General,14
+602,A00629,China,Student,14
+603,A00630,China,Student,14
+604,A00631,Japan,General,7
+605,A00632,Japan,General,7
+606,A00633,South Africa,Student,3
+607,A00634,South Africa,General,5
+608,A00635,Germany,General,19
+609,A00636,Belgium,General,20
+610,A00637,Czech Republic,General,16
+611,A00638,South Africa,General,14
+612,A00639,Spain,General,5
+613,A00640,Japan,General,7
+614,A00641,UK,Student,16
+615,A00642,Japan,General,3
+616,A00643,Greece,General,13
+617,A00644,Greece,General,3
+618,A00645,Spain,General,14
+619,A00647,Greece,General,15
+620,A00648,Germany,General,6
+621,A00649,UK,General,19
+622,A00650,UK,Student,7
+623,A00651,United States of America,General,13
+624,A00652,Australia,General,16
+625,A00653,United States of America,General,14
+626,A00654,United States of America,General,14
+627,A00655,United States of America,Student,14
+628,A00656,Australia,General,7
+629,A00657,Australia,Student,15
+630,A00658,Malaysia,Student,9
+631,A00659,Japan,General,5
+632,A00660,Japan,General,5
+633,A00661,China,Student,4
+634,A00662,Japan,General,14
+635,A00663,Japan,General,16
+636,A00664,United States of America,General,16
+637,A00665,India,Developing country (*上記注釈をご参照ください),13
+638,A00666,Japan,General,6
+639,A00667,Japan,General,10
+640,A00668,Thailand,General,18
+641,A00669,Japan,Student,2
+642,A00670,Thailand,General,7
+643,A00671,Sweden,Student,18
+644,A00672,Australia,Student,16
+645,A00674,Japan,General,17
+646,A00675,China,Student,10
+647,A00676,Taiwan,General,5
+648,A00677,South Africa,Student,18
+649,A00678,Czech Republic,General,7
+650,A00679,Japan,General,5
+651,A00680,Germany,General,8
+652,A00681,Switzerland,General,11
+653,A00682,Thailand,General,2
+654,A00683,Pakistan,General,14
+655,A00684,Japan,General,14
+656,A00685,United States of America,General,14
+657,A00686,Taiwan,Student,10
+658,A00687,France,General,
+659,A00688,Spain,Student,3
+660,A00689,United States of America,Student,5
+661,A00690,United States of America,General,15
+662,A00691,United States of America,General,14
+663,A00692,United States of America,General,7
+664,A00693,United States of America,Student,12
+665,A00694,United States of America,General,
+666,A00695,United States of America,General,13
+667,A00696,United States of America,Student,13
+668,A00697,Japan,General,14
+669,A00698,Japan,General,4
+670,A00699,Australia,General,6
+671,A00700,Taiwan,General,7
+672,A00701,China,Student,6
+673,A00702,Taiwan,General,17
+674,A00703,Japan,General,15
+675,A00704,Japan,General,7
+676,A00705,Australia,General,14
+677,A00706,Korea,Student,18
+678,A00707,Philippines,General,8
+679,A00708,Japan,General,14
+680,A00709,Canada,Student,5
+681,A00710,Japan,Student,13
+682,A00711,Japan,Student,16
+683,A00712,Taiwan,General,7
+684,A00713,Japan,General,6
+685,A00714,South Africa,Student,14
+686,A00715,South Africa,General,14
+687,A00716,Korea,Student,20
+688,A00717,Korea,Student,18
+689,A00718,Japan,General,19
+690,A00719,Japan,General,18
+691,A00720,India,Student,15
+692,A00721,Poland,Student,20
+693,A00722,Malaysia,General,13
+694,A00723,France,General,
+695,A00724,United States of America,General,8
+696,A00725,Switzerland,General,16
+697,A00726,Japan,General,10
+698,A00727,Italy,General,20
+699,A00728,Taiwan,General,14
+700,A00729,United States of America,General,13
+701,A00730,Japan,Student,20
+702,A00731,Germany,General,20
+703,A00732,South Africa,Developing country (*上記注釈をご参照ください),14
+704,A00733,Poland,General,16
+705,A00734,Germany,General,9
+706,A00735,United States of America,General,2
+707,A00736,Austria,General,7
+708,A00737,United States of America,General,11
+709,A00738,United States of America,General,13
+710,A00739,United States of America,General,7
+711,A00740,United States of America,General,7
+712,A00741,United States of America,General,10
+713,A00742,Japan,General,16
+714,A00743,United States of America,Student,6
+715,A00744,United States of America,General,7
+716,A00745,United States of America,General,20
+717,A00746,Latvia,General,18
+718,A00747,Canada,General,3
+719,A00748,Japan,Student,8
+720,A00749,United States of America,General,12
+721,A00750,Japan,General,16
+722,A00751,Korea,General,9
+723,A00752,Japan,General,16
+724,A00753,Japan,General,3
+725,A00754,India,Developing country (*上記注釈をご参照ください),2
+726,A00755,Taiwan,Student,7
+727,A00756,Belgium,General,17
+728,A00758,UK,General,17
+729,A00759,United States of America,General,14
+730,A00760,Canada,Student,16
+731,A00761,United States of America,General,16
+732,A00762,United States of America,Student,11
+733,A00763,Australia,Student,5
+734,A00764,Japan,General,16
+735,A00766,Japan,Accompanying guest,
+736,A00768,Japan,General,14
+737,A00769,UK,Student,18
+738,A00770,United States of America,General,7
+739,A00771,New Zealand,General,14
+740,A00772,Japan,General,7
+741,A00773,Japan,General,17
+742,A00774,United States of America,General,17
+743,A00775,China,General,2
+744,A00776,China,General,7
+745,A00777,Japan,General,14
+746,A00778,Japan,General,17
+747,A00779,Australia,General,6
+748,A00780,Japan,Student,6
+749,A00781,Japan,General,13
+750,A00782,Thailand,Student,15
+751,A00783,Thailand,Student,13
+752,A00784,Japan,General,8
+753,A00785,Korea,Student,18
+754,A00786,Korea,Student,18
+755,A00787,Taiwan,General,7
+756,A00788,Japan,General,20
+757,A00789,Japan,General,2
+758,A00792,Japan,General,10
+759,A00793,Thailand,Student,3
+760,A00794,Singapore,General,14
+761,A00795,Japan,General,7
+762,A00796,Korea,General,
+763,A00797,Korea,General,18
+764,A00798,Japan,General,14
+765,A00799,Japan,Student,3
+766,A00801,Japan,General,8
+767,A00802,Taiwan,General,17
+768,A00803,Japan,Student,7
+769,A00804,Japan,General,10
+770,A00805,Iran,Developing country (*上記注釈をご参照ください),15
+771,A00806,Japan,General,7
+772,A00807,Japan,Student,8
+773,A00808,France,General,7
+774,A00809,Austria,General,7
+775,A00810,China,General,
+776,A00811,Poland,General,20
+777,A00812,Italy,General,16
+778,A00813,UK,General,4
+779,A00814,Germany,Student,10
+780,A00815,Turkey,General,16
+781,A00816,Switzerland,General,4
+782,A00817,Netherlands,General,5
+783,A00818,Japan,General,10
+784,A00819,South Africa,General,8
+785,A00820,Poland,General,20
+786,A00821,Belgium,Student,7
+787,A00822,China,General,17
+788,A00823,Japan,General,3
+789,A00824,Italy,General,14
+790,A00826,United States of America,General,14
+791,A00827,Brazil,Student,
+792,A00828,UK,General,16
+793,A00829,United States of America,General,7
+794,A00830,Taiwan,General,13
+795,A00831,United States of America,General,7
+796,A00832,United States of America,General,15
+797,A00833,United States of America,General,4
+798,A00834,UK,Student,13
+799,A00835,UK,Student,13
+800,A00836,UK,General,10
+801,A00837,United States of America,General,13
+802,A00838,India,Developing country (*上記注釈をご参照ください),5
+803,A00839,United States of America,General,16
+804,A00840,Chile,General,3
+805,A00841,Chile,Student,7
+806,A00842,United States of America,General,18
+807,A00843,United States of America,Accompanying guest,18
+808,A00844,United States of America,General,16
+809,A00845,United States of America,Student,10
+810,A00846,United States of America,General,20
+811,A00847,United States of America,General,10
+812,A00848,United States of America,General,14
+813,A00849,Taiwan,Student,3
+814,A00850,United States of America,General,20
+815,A00851,Australia,Student,7
+816,A00852,Japan,General,5
+817,A00853,Japan,General,7
+818,A00854,Japan,Student,7
+819,A00855,Taiwan,General,13
+820,A00856,China,General,10
+821,A00857,United States of America,General,12
+822,A00858,Japan,General,7
+823,A00859,Japan,Student,7
+824,A00860,Japan,General,15
+825,A00861,Japan,General,8
+826,A00862,Australia,General,18
+827,A00863,Japan,General,16
+828,A00864,China,General,6
+829,A00865,Japan,General,18
+830,A00866,Japan,General,16
+831,A00867,Taiwan,General,18
+832,A00868,Taiwan,General,19
+833,A00869,Japan,General,18
+834,A00870,Japan,General,14
+835,A00871,Japan,General,2
+836,A00872,Taiwan,Student,15
+837,A00873,Japan,General,14
+838,A00874,Japan,General,7
+839,A00875,Japan,Student,5
+840,A00876,Japan,General,5
+841,A00877,Japan,General,18
+842,A00878,China,Student,5
+843,A00879,Taiwan,General,14
+844,A00880,Taiwan,General,14
+845,A00881,Philippines,Accompanying guest,
+846,A00882,China,General,
+847,A00883,Philippines,Developing country (*上記注釈をご参照ください),16
+848,A00884,Taiwan,Student,
+849,A00885,Japan,Student,0
+850,A00886,Réunion,Student,11
+851,A00887,Japan,General,14
+852,A00888,Japan,General,14
+853,A00889,China,General,6
+854,A00890,Malaysia,General,
+855,A00891,Taiwan,Student,20
+856,A00892,Japan,General,17
+857,A00893,France,Student,7
+858,A00894,Taiwan,General,16
+859,A00895,China,General,2
+860,A00896,Norway,General,7
+861,A00897,Spain,Student,6
+862,A00898,UK,Student,13
+863,A00899,France,General,4
+864,A00900,Israel,Student,17
+865,A00901,Spain,Student,3
+866,A00902,France,General,16
+867,A00903,China,General,7
+868,A00904,Croatia,General,14
+869,A00905,France,General,4
+870,A00906,Japan,General,8
+871,A00907,India,Developing country (*上記注釈をご参照ください),8
+872,A00908,Poland,General,
+873,A00909,Italy,General,12
+874,A00910,Japan,Student,18
+875,A00912,Greece,Student,4
+876,A00913,Germany,General,3
+877,A00914,Sweden,General,18
+878,A00915,Sweden,General,18
+879,A00916,Thailand,General,18
+880,A00917,Japan,General,14
+881,A00918,Japan,General,15
+882,A00919,Japan,General,7
+883,A00920,Greece,General,3
+884,A00921,Japan,General,16
+885,A00922,United States of America,General,20
+886,A00923,Belgium,Student,14
+887,A00924,China,General,16
+888,A00925,Taiwan,General,14
+889,A00926,Germany,General,16
+890,A00928,France,Student,10
+891,A00929,France,Student,10
+892,A00930,France,Student,10
+893,A00931,China,General,
+894,A00932,United States of America,General,15
+895,A00933,China,General,8
+896,A00934,Switzerland,General,15
+897,A00935,Canada,General,20
+898,A00936,United States of America,General,7
+899,A00937,United States of America,General,3
+900,A00938,Canada,General,16
+901,A00939,United States of America,General,14
+902,A00940,United States of America,Student,7
+903,A00941,United States of America,General,17
+904,A00942,Israel,General,17
+905,A00943,United States of America,General,3
+906,A00944,United States of America,Student,
+907,A00945,United States of America,Student,4
+908,A00946,Australia,General,15
+909,A00947,Japan,Student,14
+910,A00948,Japan,General,17
+911,A00949,Japan,Student,3
+912,A00950,United States of America,General,13
+913,A00951,Japan,General,10
+914,A00952,United States of America,Accompanying guest,0
+915,A00953,Japan,General,8
+916,A00954,Japan,General,9
+917,A00955,Japan,General,8
+918,A00956,China,General,4
+919,A00957,Australia,General,10
+920,A00958,Taiwan,General,14
+921,A00959,Japan,General,7
+922,A00960,Japan,General,10
+923,A00961,Japan,Student,10
+924,A00962,Australia,General,7
+925,A00963,Réunion,General,3
+926,A00964,Japan,General,17
+927,A00965,Japan,General,7
+928,A00966,Japan,General,7
+929,A00967,Korea,Student,7
+930,A00968,Japan,General,7
+931,A00969,Japan,General,7
+932,A00970,Japan,General,10
+933,A00971,Taiwan,Student,10
+934,A00972,Japan,Student,5
+935,A00973,Australia,General,
+936,A00974,China,General,15
+937,A00975,China,Student,14
+938,A00976,Japan,Student,18
+939,A00977,Japan,General,3
+940,A00978,Japan,General,7
+941,A00979,Japan,Student,1
+942,A00980,Japan,Student,17
+943,A00981,Japan,Guest (*このカテゴリは選択しないでください),
+944,A00982,Japan,General,18
+945,A00983,Croatia,General,12
+946,A00984,Poland,Student,17
+947,A00985,Japan,General,7
+948,A00986,Taiwan,Student,3
+949,A00987,Germany,Student,4
+950,A00988,Réunion,General,14
+951,A00989,China,Student,18
+952,A00990,Germany,General,18
+953,A00991,Thailand,General,5
+954,A00992,Germany,Student,7
+955,A00993,Germany,Student,16
+956,A00994,Bangladesh,Developing country (*上記注釈をご参照ください),14
+957,A00995,Brazil,General,18
+958,A00996,Czech Republic,General,8
+959,A00997,Czech Republic,General,7
+960,A00998,Greece,Student,3
+961,A00999,Sweden,Student,7
+962,A01001,Korea,Student,18
+963,A01002,Germany,Student,5
+964,A01003,Canada,General,3
+965,A01004,Japan,General,
+966,A01005,South Africa,Student,
+967,A01006,Japan,Student,18
+968,A01007,China,General,14
+969,A01008,France,Student,14
+970,A01009,Germany,General,14
+971,A01010,Greece,Student,15
+972,A01011,United States of America,General,
+973,A01012,United States of America,Student,20
+974,A01013,United States of America,General,13
+975,A01014,United States of America,General,14
+976,A01015,United States of America,General,16
+977,A01016,UK,General,15
+978,A01017,Brazil,General,3
+979,A01018,Chile,Student,1
+980,A01019,Japan,General,17
+981,A01020,Slovakia,Student,13
+982,A01021,UK,General,16
+983,A01022,New Zealand,Student,3
+984,A01023,Japan,General,14
+985,A01024,Japan,General,14
+986,A01025,United States of America,General,15
+987,A01026,Japan,General,11
+988,A01027,Japan,Student,18
+989,A01028,China,General,16
+990,A01029,Japan,General,3
+991,A01030,Japan,General,0
+992,A01031,Japan,General,15
+993,A01032,United States of America,General,7
+994,A01033,Japan,General,10
+995,A01034,Japan,General,
+996,A01035,Japan,General,8
+997,A01036,China,General,1
+998,A01037,Australia,General,18
+999,A01038,China,General,8
+1000,A01039,Japan,General,10
+1001,A01040,China,General,17
+1002,A01041,Japan,General,18
+1003,A01042,Japan,General,11
+1004,A01043,China,General,10
+1005,A01044,China,General,16
+1006,A01045,Japan,Student,20
+1007,A01046,Japan,Student,5
+1008,A01047,Japan,General,
+1009,A01048,Japan,Student,6
+1010,A01049,Japan,General,19
+1011,A01050,Japan,Student,15
+1012,A01051,Japan,Student,18
+1013,A01052,Japan,Student,18
+1014,A01053,Japan,General,7
+1015,A01054,Thailand,General,
+1016,A01055,Singapore,General,20
+1017,A01056,Australia,General,
+1018,A01057,Japan,Student,5
+1019,A01058,China,General,14
+1020,A01059,China,General,15
+1021,A01060,China,General,18
+1022,A01061,China,General,3
+1023,A01062,China,General,
+1024,A01063,Germany,General,8
+1025,A01064,Greece,General,14
+1026,A01065,China,Student,8
+1027,A01066,France,General,7
+1028,A01067,Japan,General,18
+1029,A01068,Japan,General,19
+1030,A01069,Italy,General,14
+1031,A01070,France,Student,16
+1032,A01071,France,General,12
+1033,A01072,Israel,General,10
+1034,A01073,Japan,General,6
+1035,A01074,Japan,Student,16
+1036,A01075,Japan,General,7
+1037,A01076,UK,Student,10
+1038,A01077,Germany,General,7
+1039,A01078,Spain,General,14
+1040,A01079,Greece,Student,3
+1041,A01080,China,Student,10
+1042,A01081,China,Student,8
+1043,A01082,Japan,Student,11
+1044,A01083,Canada,Student,16
+1045,A01084,Germany,General,17
+1046,A01085,United States of America,General,
+1047,A01086,Czech Republic,General,16
+1048,A01087,Germany,General,17
+1049,A01088,Canada,General,14
+1050,A01089,Australia,Student,7
+1051,A01090,United States of America,General,20
+1052,A01091,United States of America,General,13
+1053,A01092,China,General,13
+1054,A01093,France,Student,20
+1055,A01094,Japan,Student,7
+1056,A01095,Czech Republic,Student,16
+1057,A01096,UK,General,11
+1058,A01097,China,Student,7
+1059,A01098,France,General,16
+1060,A01099,United States of America,General,15
+1061,A01100,Switzerland,General,12
+1062,A01101,United States of America,General,5
+1063,A01102,Korea,General,
+1064,A01103,United States of America,General,14
+1065,A01104,Canada,Student,13
+1066,A01105,United States of America,Student,10
+1067,A01106,Australia,General,12
+1068,A01107,United States of America,General,15
+1069,A01108,United States of America,General,13
+1070,A01109,United States of America,General,16
+1071,A01110,United States of America,General,8
+1072,A01112,Japan,General,7
+1073,A01113,France,General,18
+1074,A01114,New Zealand,General,10
+1075,A01115,Australia,Student,3
+1076,A01116,Japan,General,7
+1077,A01117,Korea,General,5
+1078,A01118,Japan,General,15
+1079,A01119,Japan,General,7
+1080,A01120,China,General,1
+1081,A01121,Australia,Student,4
+1082,A01122,United States of America,General,8
+1083,A01123,China,General,1
+1084,A01124,Japan,General,7
+1085,A01125,Thailand,General,3
+1086,A01126,Japan,General,14
+1087,A01127,Japan,General,18
+1088,A01128,Japan,Student,10
+1089,A01129,Australia,Student,5
+1090,A01130,Japan,General,3
+1091,A01131,Japan,General,14
+1092,A01132,Japan,General,14
+1093,A01133,United Arab Emirates,General,8
+1094,A01134,China,Student,8
+1095,A01135,Japan,General,16
+1096,A01136,Czech Republic,General,12
+1097,A01137,Japan,General,10
+1098,A01138,Japan,General,18
+1099,A01139,China,Developing country (*上記注釈をご参照ください),14
+1100,A01140,Japan,General,5
+1101,A01141,China,General,
+1102,A01142,Japan,Student,0
+1103,A01143,Japan,General,1
+1104,A01144,Switzerland,Student,17
+1105,A01145,Sweden,Student,12
+1106,A01146,Japan,Student,14
+1107,A01147,UK,Student,
+1108,A01148,Germany,General,15
+1109,A01149,Japan,General,19
+1110,A01150,Japan,General,7
+1111,A01151,UK,Student,13
+1112,A01153,South Africa,General,14
+1113,A01154,Japan,Student,7
+1114,A01155,France,General,14
+1115,A01156,UK,Student,7
+1116,A01157,United States of America,General,10
+1117,A01158,Germany,General,7
+1118,A01159,Slovenia,General,20
+1119,A01160,UK,General,17
+1120,A01161,United States of America,General,7
+1121,A01162,Germany,General,15
+1122,A01163,United States of America,General,18
+1123,A01164,Thailand,General,19
+1124,A01165,United States of America,General,11
+1125,A01166,United States of America,General,7
+1126,A01167,United States of America,Student,1
+1127,A01168,United States of America,General,14
+1128,A01169,United States of America,General,18
+1129,A01170,United States of America,Student,7
+1130,A01171,Canada,General,6
+1131,A01172,Canada,Student,
+1132,A01173,China,General,7
+1133,A01174,Mexico,General,7
+1134,A01175,Mexico,General,7
+1135,A01176,United States of America,General,20
+1136,A01177,United States of America,General,3
+1137,A01178,Taiwan,General,12
+1138,A01179,United States of America,General,3
+1139,A01180,Indonesia,General,3
+1140,A01181,United States of America,General,
+1141,A01182,Japan,General,1
+1142,A01183,Japan,General,18
+1143,A01184,Australia,Student,11
+1144,A01185,Canada,General,7
+1145,A01186,Taiwan,Student,13
+1146,A01187,Taiwan,Student,11
+1147,A01188,Japan,General,14
+1148,A01189,Japan,General,3
+1149,A01190,India,Developing country (*上記注釈をご参照ください),14
+1150,A01191,Japan,Student,7
+1151,A01192,Italy,General,20
+1152,A01194,Mexico,Student,5
+1153,A01195,United States of America,General,7
+1154,A01196,Japan,Student,10
+1155,A01197,United States of America,General,14
+1156,A01198,Taiwan,General,6
+1157,A01199,Japan,Student,7
+1158,A01200,Japan,Student,11
+1159,A01201,Belgium,General,18
+1160,A01202,Taiwan,Student,13
+1161,A01203,Japan,General,2
+1162,A01204,Japan,General,19
+1163,A01205,Japan,General,16
+1164,A01206,China,General,10
+1165,A01207,Japan,General,18
+1166,A01208,Japan,General,8
+1167,A01209,China,General,2
+1168,A01210,Thailand,General,11
+1169,A01211,Finland,General,18
+1170,A01212,Czech Republic,Student,6
+1171,A01214,United States of America,General,4
+1172,A01215,Spain,General,14
+1173,A01216,Italy,General,3
+1174,A01217,Italy,Student,3
+1175,A01218,Japan,General,19
+1176,A01219,Japan,General,
+1177,A01220,Japan,Student,14
+1178,A01221,Japan,Accompanying guest,
+1179,A01222,Japan,Student,18
+1180,A01223,Japan,Accompanying guest,
+1181,A01224,Germany,Student,16
+1182,A01225,Japan,Student,8
+1183,A01226,China,Student,16
+1184,A01227,Japan,Student,7
+1185,A01228,Taiwan,General,19
+1186,A01229,Taiwan,Student,18
+1187,A01230,India,Student,13
+1188,A01231,Japan,General,18
+1189,A01232,Japan,General,19
+1190,A01233,Taiwan,Accompanying guest,19
+1191,A01234,United States of America,General,7
+1192,A01235,Sri Lanka,Developing country (*上記注釈をご参照ください),14
+1193,A01236,United States of America,General,16
+1194,A01237,Japan,General,16
+1195,A01238,United States of America,General,13
+1196,A01239,Australia,Student,14
+1197,A01240,Japan,General,14
+1198,A01241,Australia,General,18
+1199,A01242,Japan,Student,7
+1200,A01243,Philippines,Developing country (*上記注釈をご参照ください),5
+1201,A01244,Japan,General,18
+1202,A01245,Taiwan,General,17
+1203,A01246,Philippines,Developing country (*上記注釈をご参照ください),15
+1204,A01247,Japan,General,19
+1205,A01248,Japan,General,8
+1206,A01249,Taiwan,General,
+1207,A01250,Japan,General,3
+1208,A01251,Japan,General,10
+1209,A01252,Australia,General,7
+1210,A01253,Japan,Student,7
+1211,A01254,Japan,General,10
+1212,A01255,Japan,Student,7
+1213,A01256,Australia,General,4
+1214,A01257,Japan,General,4
+1215,A01258,Japan,General,8
+1216,A01259,China,Student,6
+1217,A01260,United States of America,Student,18
+1218,A01261,Taiwan,General,13
+1219,A01262,Australia,Student,15
+1220,A01263,Australia,General,17
+1221,A01264,Brazil,General,3
+1222,A01265,Japan,Student,14
+1223,A01266,Brazil,Student,10
+1224,A01267,Japan,General,6
+1225,A01268,China,General,18
+1226,A01269,China,General,18
+1227,A01270,Brazil,General,3
+1228,A01271,Australia,Student,10
+1229,A01272,Taiwan,Student,10
+1230,A01273,Japan,General,14
+1231,A01274,Japan,General,7
+1232,A01275,Japan,Student,16
+1233,A01276,Japan,Student,3
+1234,A01277,China,General,14
+1235,A01278,Japan,General,10
+1236,A01279,China,General,16
+1237,A01280,Japan,General,10
+1238,A01281,Japan,General,7
+1239,A01282,China,General,
+1240,A01284,Japan,Student,14
+1241,A01285,Japan,General,10
+1242,A01286,Japan,General,18
+1243,A01287,Japan,General,4
+1244,A01288,China,General,7
+1245,A01289,Japan,General,4
+1246,A01290,India,Developing country (*上記注釈をご参照ください),4
+1247,A01291,Japan,Student,18
+1248,A01292,Japan,Student,6
+1249,A01293,Japan,Student,6
+1250,A01294,Japan,Student,6
+1251,A01295,China,General,7
+1252,A01296,Japan,Student,13
+1253,A01297,Japan,General,7
+1254,A01298,India,Student,13
+1255,A01299,Japan,Student,14
+1256,A01300,Israel,General,16
+1257,A01301,China,General,8
+1258,A01302,Japan,Student,7
+1259,A01303,China,Student,11
+1260,A01304,China,General,14
+1261,A01305,China,General,6
+1262,A01306,Japan,General,14
+1263,A01307,China,General,7
+1264,A01308,China,General,8
+1265,A01309,China,Student,15
+1266,A01310,Czech Republic,General,18
+1267,A01311,China,General,14
+1268,A01312,Japan,General,14
+1269,A01313,Japan,General,7
+1270,A01314,China,General,14
+1271,A01315,Spain,General,6
+1272,A01316,Sweden,Student,18
+1273,A01317,Germany,General,18
+1274,A01318,Poland,General,18
+1275,A01319,Norway,General,
+1276,A01320,China,Student,15
+1277,A01321,Taiwan,General,13
+1278,A01322,Japan,General,19
+1279,A01323,Japan,General,17
+1280,A01324,Sweden,Student,7
+1281,A01325,Taiwan,Student,5
+1282,A01326,South Africa,Student,
+1283,A01327,Netherlands,Student,14
+1284,A01328,Germany,General,14
+1285,A01329,UK,General,7
+1286,A01330,Italy,General,12
+1287,A01331,China,General,7
+1288,A01332,France,General,20
+1289,A01333,Japan,General,7
+1290,A01334,Germany,General,7
+1291,A01335,India,Developing country (*上記注釈をご参照ください),11
+1292,A01336,South Africa,General,14
+1293,A01337,Germany,Student,18
+1294,A01338,Switzerland,General,3
+1295,A01339,Japan,Student,16
+1296,A01340,Italy,General,5
+1297,A01341,Hong Kong,Student,5
+1298,A01342,Serbia,General,3
+1299,A01343,Czech Republic,General,3
+1300,A01344,Poland,General,16
+1301,A01346,Singapore,Student,11
+1302,A01347,China,General,14
+1303,A01348,Poland,General,16
+1304,A01349,Finland,General,18
+1305,A01350,UK,General,13
+1306,A01351,Switzerland,General,18
+1307,A01352,Japan,General,7
+1308,A01353,Taiwan,Student,5
+1309,A01354,Japan,General,11
+1310,A01355,UK,General,13
+1311,A01356,Austria,Student,16
+1312,A01357,Sweden,General,7
+1313,A01358,Sweden,Student,18
+1314,A01359,France,General,10
+1315,A01360,UK,General,14
+1316,A01361,Japan,General,4
+1317,A01362,Japan,Student,18
+1318,A01363,South Africa,Student,13
+1319,A01364,United States of America,General,15
+1320,A01365,Japan,Student,7
+1321,A01366,Norway,General,5
+1322,A01367,Japan,General,14
+1323,A01368,China,General,14
+1324,A01369,Japan,General,18
+1325,A01370,China,Student,14
+1326,A01371,United States of America,General,8
+1327,A01372,Germany,General,11
+1328,A01373,Italy,General,14
+1329,A01374,Poland,General,18
+1330,A01375,Germany,General,5
+1331,A01376,Germany,General,9
+1332,A01377,United States of America,General,13
+1333,A01378,Colombia,General,18
+1334,A01379,Switzerland,General,3
+1335,A01380,Italy,General,15
+1336,A01381,United States of America,General,14
+1337,A01382,Belgium,General,7
+1338,A01383,Canada,General,3
+1339,A01384,United States of America,General,13
+1340,A01385,Taiwan,Student,18
+1341,A01386,Greece,General,13
+1342,A01387,UK,Student,7
+1343,A01388,Germany,General,4
+1344,A01389,United States of America,General,18
+1345,A01390,Taiwan,Student,16
+1346,A01391,United States of America,General,13
+1347,A01392,Singapore,General,7
+1348,A01393,United States of America,General,17
+1349,A01394,United States of America,General,17
+1350,A01395,United States of America,General,4
+1351,A01396,United States of America,General,15
+1352,A01397,United States of America,General,15
+1353,A01398,United States of America,General,16
+1354,A01400,United States of America,General,11
+1355,A01401,France,Student,9
+1356,A01402,United States of America,General,7
+1357,A01403,UK,General,13
+1358,A01404,United States of America,Student,15
+1359,A01405,Czech Republic,General,18
+1360,A01406,Czech Republic,Student,18
+1361,A01407,Japan,General,7
+1362,A01408,Japan,Student,14
+1363,A01409,United States of America,General,14
+1364,A01410,United States of America,General,4
+1365,A01411,Brazil,General,3
+1366,A01412,United States of America,General,16
+1367,A01413,Taiwan,General,18
+1368,A01414,Belgium,Student,20
+1369,A01415,Italy,General,11
+1370,A01416,Canada,General,
+1371,A01417,Italy,General,13
+1372,A01418,United States of America,General,14
+1373,A01419,United States of America,Student,11
+1374,A01420,United States of America,General,13
+1375,A01421,United States of America,General,3
+1376,A01422,Canada,General,16
+1377,A01423,United States of America,Student,1
+1378,A01424,United States of America,General,6
+1379,A01425,United States of America,General,8
+1380,A01426,Germany,General,2
+1381,A01427,United States of America,General,13
+1382,A01428,Italy,General,3
+1383,A01429,United States of America,General,20
+1384,A01430,Switzerland,General,7
+1385,A01431,United States of America,Student,16
+1386,A01432,United States of America,General,15
+1387,A01433,United States of America,General,14
+1388,A01434,Belgium,Student,5
+1389,A01435,United States of America,General,14
+1390,A01436,United States of America,General,14
+1391,A01437,Japan,Student,9
+1392,A01438,Mexico,General,14
+1393,A01439,United States of America,General,18
+1394,A01440,United States of America,General,6
+1395,A01441,Japan,Student,8
+1396,A01442,United States of America,General,14
+1397,A01443,United States of America,General,16
+1398,A01444,Japan,General,8
+1399,A01445,United States of America,Student,18
+1400,A01446,Japan,Student,7
+1401,A01447,Japan,General,6
+1402,A01448,Australia,General,15
+1403,A01449,Taiwan,Student,18
+1404,A01450,Australia,Student,18
+1405,A01451,Japan,Student,7
+1406,A01452,Japan,Student,6
+1407,A01453,Australia,General,12
+1408,A01454,Korea,General,18
+1409,A01455,China,General,16
+1410,A01456,Taiwan,Student,14
+1411,A01457,China,Student,6
+1412,A01458,Canada,General,13
+1413,A01459,Japan,Student,10
+1414,A01460,Japan,General,15
+1415,A01461,Japan,General,13
+1416,A01462,Japan,Student,9
+1417,A01463,Australia,General,11
+1418,A01464,Japan,Student,9
+1419,A01465,Japan,General,6
+1420,A01466,Taiwan,General,14
+1421,A01467,Japan,General,10
+1422,A01468,China,General,
+1423,A01470,Japan,Student,3
+1424,A01471,Japan,General,14
+1425,A01472,Thailand,General,13
+1426,A01473,United States of America,Student,4
+1427,A01474,Thailand,General,3
+1428,A01475,China,General,13
+1429,A01476,United States of America,Student,6
+1430,A01477,Japan,General,7
+1431,A01478,Australia,General,18
+1432,A01479,Taiwan,General,9
+1433,A01480,Australia,Student,5
+1434,A01481,Japan,Student,12
+1435,A01482,Japan,General,14
+1436,A01483,Australia,General,14
+1437,A01484,Australia,General,13
+1438,A01485,Thailand,General,13
+1439,A01486,Japan,General,2
+1440,A01487,Australia,Student,10
+1441,A01488,Japan,Student,16
+1442,A01489,Japan,General,7
+1443,A01490,India,Developing country (*上記注釈をご参照ください),2
+1444,A01491,China,General,7
+1445,A01492,Japan,Student,16
+1446,A01493,Taiwan,Student,3
+1447,A01494,Japan,General,10
+1448,A01495,Japan,Student,14
+1449,A01496,Korea,General,5
+1450,A01497,Korea,Student,7
+1451,A01498,China,Student,14
+1452,A01499,Japan,General,8
+1453,A01500,Korea,Student,7
+1454,A01501,Korea,General,17
+1455,A01502,Japan,Student,10
+1456,A01503,Korea,Student,18
+1457,A01504,Korea,Student,5
+1458,A01505,Japan,General,6
+1459,A01506,Japan,Student,7
+1460,A01507,Japan,Student,14
+1461,A01508,Japan,Student,17
+1462,A01509,Japan,Student,5
+1463,A01510,Japan,Student,19
+1464,A01511,China,Student,15
+1465,A01512,Japan,General,6
+1466,A01513,China,General,16
+1467,A01514,Japan,General,2
+1468,A01515,Korea,General,18
+1469,A01516,Japan,General,11
+1470,A01517,China,Student,12
+1471,A01518,United States of America,General,7
+1472,A01519,Taiwan,General,14
+1473,A01520,Taiwan,Student,14
+1474,A01521,Japan,Student,14
+1475,A01522,Japan,General,10
+1476,A01523,Thailand,Student,13
+1477,A01524,Belgium,Student,19
+1478,A01525,Indonesia,General,15
+1479,A01526,Korea,Student,20
+1480,A01527,Japan,General,2
+1481,A01528,Japan,General,14
+1482,A01529,Russia,General,10
+1483,A01530,Korea,Accompanying guest,
+1484,A01531,Taiwan,Student,17
+1485,A01533,Japan,General,8
+1486,A01534,Thailand,General,13
+1487,A01535,Taiwan,Student,4
+1488,A01536,Japan,General,14
+1489,A01538,China,Student,16
+1490,A01539,Switzerland,Student,7
+1491,A01540,Japan,Student,17
+1492,A01541,Japan,Student,19
+1493,A01542,Italy,General,3
+1494,A01543,Korea,General,10
+1495,A01544,Korea,General,10
+1496,A01545,Taiwan,Student,11
+1497,A01546,China,General,15
+1498,A01547,Italy,General,14
+1499,A01548,Japan,Student,18
+1500,A01549,France,General,6
+1501,A01550,Germany,Accompanying guest,20
+1502,A01551,Norway,General,14
+1503,A01552,Japan,Student,7
+1504,A01553,India,Developing country (*上記注釈をご参照ください),14
+1505,A01554,Poland,General,16
+1506,A01555,Sweden,General,16
+1507,A01556,Japan,General,5
+1508,A01557,Japan,Student,20
+1509,A01558,Germany,General,13
+1510,A01559,Japan,Student,13
+1511,A01560,Italy,General,3
+1512,A01561,India,Developing country (*上記注釈をご参照ください),14
+1513,A01562,Japan,Student,10
+1514,A01563,India,Developing country (*上記注釈をご参照ください),14
+1515,A01564,China,Student,14
+1516,A01565,Czech Republic,General,6
+1517,A01566,China,General,14
+1518,A01567,Austria,General,1
+1519,A01568,Finland,General,18
+1520,A01569,UK,General,15
+1521,A01570,France,Student,18
+1522,A01571,Japan,Student,8
+1523,A01572,Poland,General,16
+1524,A01574,Japan,Student,18
+1525,A01575,China,Student,14
+1526,A01576,Switzerland,Student,12
+1527,A01577,UK,General,14
+1528,A01578,Thailand,General,13
+1529,A01579,Taiwan,General,18
+1530,A01580,Greece,Student,15
+1531,A01581,Czech Republic,General,16
+1532,A01582,Norway,Student,5
+1533,A01583,Switzerland,General,7
+1534,A01584,Japan,Student,7
+1535,A01585,Japan,Student,7
+1536,A01586,Taiwan,General,7
+1537,A01587,Belgium,General,15
+1538,A01588,UK,General,14
+1539,A01589,Turkey,Student,16
+1540,A01590,United States of America,General,10
+1541,A01591,Russia,General,7
+1542,A01592,Sweden,General,19
+1543,A01593,Netherlands,General,10
+1544,A01594,Italy,General,11
+1545,A01595,France,General,14
+1546,A01596,United States of America,General,16
+1547,A01597,UK,General,18
+1548,A01598,United States of America,General,17
+1549,A01599,Taiwan,General,7
+1550,A01600,Puerto Rico,General,13
+1551,A01601,Germany,General,18
+1552,A01602,United States of America,General,16
+1553,A01603,Ireland,Student,12
+1554,A01604,United States of America,General,15
+1555,A01605,United States of America,Student,8
+1556,A01606,United States of America,Student,18
+1557,A01607,China,General,15
+1558,A01608,Italy,Student,14
+1559,A01609,Japan,General,7
+1560,A01610,Japan,Student,10
+1561,A01611,United States of America,General,15
+1562,A01612,Israel,Student,16
+1563,A01613,Belgium,Student,3
+1564,A01614,Belgium,General,14
+1565,A01615,Slovenia,General,16
+1566,A01616,Belgium,Student,18
+1567,A01617,Germany,Accompanying guest,
+1568,A01618,United States of America,Student,8
+1569,A01619,United States of America,General,3
+1570,A01620,Japan,Student,7
+1571,A01621,United States of America,General,14
+1572,A01622,Pakistan,General,18
+1573,A01623,United States of America,General,8
+1574,A01624,Sweden,General,5
+1575,A01625,United States of America,General,7
+1576,A01626,Argentine,General,7
+1577,A01627,United States of America,Student,7
+1578,A01628,Canada,Student,18
+1579,A01629,United States of America,General,16
+1580,A01630,United States of America,General,10
+1581,A01631,United States of America,General,2
+1582,A01632,United States of America,General,
+1583,A01633,Czech Republic,Student,5
+1584,A01634,United States of America,General,12
+1585,A01635,United States of America,General,7
+1586,A01636,United States of America,General,2
+1587,A01637,United States of America,General,13
+1588,A01638,United States of America,Student,10
+1589,A01639,United States of America,General,14
+1590,A01640,United States of America,Student,18
+1591,A01641,United States of America,General,10
+1592,A01642,United States of America,General,9
+1593,A01643,Germany,Student,5
+1594,A01644,United States of America,Student,14
+1595,A01645,United States of America,General,16
+1596,A01646,Canada,Student,16
+1597,A01647,United States of America,Student,10
+1598,A01648,United States of America,General,7
+1599,A01649,United States of America,General,2
+1600,A01650,United States of America,General,10
+1601,A01651,United States of America,General,14
+1602,A01652,United States of America,General,8
+1603,A01653,United States of America,Student,10
+1604,A01654,United States of America,General,8
+1605,A01655,United States of America,Student,4
+1606,A01656,United States of America,General,7
+1607,A01657,United States of America,General,20
+1608,A01658,United States of America,General,14
+1609,A01659,United States of America,General,7
+1610,A01660,United States of America,General,4
+1611,A01661,Italy,General,2
+1612,A01662,United States of America,General,16
+1613,A01663,United States of America,General,10
+1614,A01664,Canada,Student,16
+1615,A01665,Canada,General,10
+1616,A01666,United States of America,Student,6
+1617,A01667,Italy,Accompanying guest,2
+1618,A01668,Italy,Accompanying guest,2
+1619,A01669,United States of America,General,6
+1620,A01670,United States of America,General,2
+1621,A01671,United States of America,General,16
+1622,A01672,Italy,General,12
+1623,A01673,Puerto Rico,Student,10
+1624,A01674,United States of America,Student,7
+1625,A01675,Australia,General,18
+1626,A01676,United States of America,General,17
+1627,A01677,Japan,Student,3
+1628,A01678,Croatia,General,5
+1629,A01679,Japan,General,7
+1630,A01680,United States of America,General,12
+1631,A01681,Japan,General,12
+1632,A01682,Australia,General,14
+1633,A01683,Japan,General,13
+1634,A01684,United States of America,General,14
+1635,A01685,Korea,General,
+1636,A01686,China,General,6
+1637,A01687,Japan,Student,7
+1638,A01688,Germany,General,7
+1639,A01689,Brazil,General,18
+1640,A01690,Japan,General,19
+1641,A01691,United States of America,General,7
+1642,A01692,China,Student,3
+1643,A01693,Japan,Student,4
+1644,A01694,Australia,Student,17
+1645,A01695,Japan,General,17
+1646,A01696,Korea,Student,18
+1647,A01697,China,General,17
+1648,A01698,China,General,6
+1649,A01699,Japan,General,19
+1650,A01700,Japan,General,20
+1651,A01701,Japan,Student,11
+1652,A01702,China,General,14
+1653,A01703,China,General,
+1654,A01704,Australia,General,7
+1655,A01705,Japan,General,14
+1656,A01706,United States of America,General,14
+1657,A01707,Korea,Student,14
+1658,A01708,United States of America,General,15
+1659,A01709,Korea,General,15
+1660,A01710,Japan,General,15
+1661,A01711,China,General,
+1662,A01712,Japan,General,7
+1663,A01713,Japan,Student,7
+1664,A01714,China,General,17
+1665,A01715,Japan,Guest (*このカテゴリは選択しないでください),
+1666,A01716,China,General,3
+1667,A01717,Korea,Student,15
+1668,A01718,Japan,General,2
+1669,A01719,Japan,Student,18
+1670,A01720,China,General,14
+1671,A01721,Japan,General,10
+1672,A01722,Japan,General,7
+1673,A01723,Canada,Student,16
+1674,A01724,Japan,General,5
+1675,A01725,Hong Kong,General,5
+1676,A01726,Japan,Student,18
+1677,A01727,Japan,Student,18
+1678,A01728,Japan,General,14
+1679,A01729,United States of America,Student,17
+1680,A01730,Korea,Student,14
+1681,A01731,Japan,General,10
+1682,A01732,Australia,General,18
+1683,A01733,Australia,General,7
+1684,A01734,Japan,General,13
+1685,A01735,Japan,General,10
+1686,A01736,Japan,General,1
+1687,A01737,Australia,General,14
+1688,A01738,Japan,Student,7
+1689,A01739,China,General,14
+1690,A01740,Japan,General,20
+1691,A01741,Japan,Student,11
+1692,A01742,Japan,General,4
+1693,A01743,Japan,General,14
+1694,A01744,Taiwan,General,18
+1695,A01745,Australia,Student,18
+1696,A01746,Korea,Student,18
+1697,A01747,Japan,Student,18
+1698,A01748,Japan,Student,11
+1699,A01749,Japan,Student,10
+1700,A01750,Japan,Student,11
+1701,A01751,Japan,Student,18
+1702,A01752,Australia,General,11
+1703,A01753,Japan,Student,1
+1704,A01754,Japan,General,20
+1705,A01755,Switzerland,General,14
+1706,A01756,Australia,General,
+1707,A01757,Japan,General,1
+1708,A01758,China,General,13
+1709,A01759,Japan,Student,
+1710,A01760,Thailand,General,8
+1711,A01761,Taiwan,Student,7
+1712,A01762,Japan,General,15
+1713,A01763,Romania,General,12
+1714,A01764,Japan,Student,7
+1715,A01765,Italy,Accompanying guest,8
+1716,A01766,Sri Lanka,Student,12
+1717,A01767,Russia,General,20
+1718,A01768,Austria,General,1
+1719,A01769,Japan,Student,7
+1720,A01770,Japan,General,13
+1721,A01771,Japan,General,4
+1722,A01772,Japan,Student,7
+1723,A01773,Taiwan,General,13
+1724,A01774,China,Student,14
+1725,A01775,Japan,General,4
+1726,A01776,Spain,General,14
+1727,A01777,Japan,Student,5
+1728,A01778,Singapore,Student,5
+1729,A01779,Japan,Student,17
+1730,A01780,Taiwan,General,7
+1731,A01781,United States of America,General,17
+1732,A01782,Japan,General,17
+1733,A01783,China,Student,1
+1734,A01784,Estonia,General,7
+1735,A01785,Japan,General,13
+1736,A01786,Japan,General,3
+1737,A01787,China,Student,14
+1738,A01788,UK,General,7
+1739,A01789,United Arab Emirates,General,12
+1740,A01790,United States of America,General,18
+1741,A01791,Korea,Student,20
+1742,A01792,China,Student,14
+1743,A01793,Japan,General,7
+1744,A01794,Germany,Student,4
+1745,A01795,Italy,General,3
+1746,A01796,Palestine,Student,4
+1747,A01797,Taiwan,Student,7
+1748,A01798,Taiwan,General,3
+1749,A01800,Taiwan,Student,14
+1750,A01801,Germany,General,12
+1751,A01802,Japan,General,3
+1752,A01803,Japan,Student,3
+1753,A01804,Japan,General,11
+1754,A01805,Japan,Student,14
+1755,A01806,Japan,Student,3
+1756,A01807,China,General,8
+1757,A01808,Taiwan,Student,5
+1758,A01809,France,Student,3
+1759,A01810,Germany,Student,16
+1760,A01811,Poland,General,16
+1761,A01812,Greece,Student,5
+1762,A01813,Greece,Student,14
+1763,A01814,Netherlands,General,6
+1764,A01815,China,General,3
+1765,A01816,India,Developing country (*上記注釈をご参照ください),7
+1766,A01817,China,General,
+1767,A01818,Italy,Student,16
+1768,A01819,Poland,Student,17
+1769,A01820,Spain,General,3
+1770,A01821,Belgium,Student,15
+1771,A01822,UK,Student,8
+1772,A01823,Japan,Student,3
+1773,A01824,UK,Student,8
+1774,A01825,Spain,General,14
+1775,A01826,Spain,General,3
+1776,A01827,Spain,General,3
+1777,A01828,Germany,General,5
+1778,A01829,UK,General,16
+1779,A01830,Chile,Student,3
+1780,A01831,Taiwan,Student,14
+1781,A01832,Italy,General,11
+1782,A01833,Japan,Student,7
+1783,A01834,Romania,Developing country (*上記注釈をご参照ください),
+1784,A01835,Turkey,General,13
+1785,A01836,Turkey,General,13
+1786,A01837,United States of America,General,11
+1787,A01838,Czech Republic,General,2
+1788,A01839,Japan,General,3
+1789,A01840,Singapore,General,5
+1790,A01841,Switzerland,General,15
+1791,A01842,Japan,General,14
+1792,A01843,United States of America,General,4
+1793,A01844,Italy,Student,17
+1794,A01845,UK,General,
+1795,A01846,China,General,14
+1796,A01847,Colombia,General,18
+1797,A01848,Japan,General,1
+1798,A01849,United States of America,Student,17
+1799,A01850,Japan,Student,10
+1800,A01851,UK,Student,8
+1801,A01852,UK,General,15
+1802,A01853,Taiwan,Student,3
+1803,A01854,UK,General,7
+1804,A01855,Japan,Student,19
+1805,A01856,Germany,General,16
+1806,A01857,China,Student,10
+1807,A01858,United States of America,General,18
+1808,A01859,United States of America,General,16
+1809,A01860,China,General,5
+1810,A01861,United States of America,General,16
+1811,A01863,United States of America,General,13
+1812,A01864,Italy,General,2
+1813,A01865,UK,Student,12
+1814,A01866,United States of America,General,14
+1815,A01867,UK,General,7
+1816,A01868,United States of America,Student,17
+1817,A01869,United States of America,General,6
+1818,A01870,Italy,General,3
+1819,A01871,United States of America,General,10
+1820,A01872,United States of America,General,16
+1821,A01873,Taiwan,General,13
+1822,A01874,Netherlands,Student,7
+1823,A01875,Uruguay,General,16
+1824,A01876,Finland,Student,
+1825,A01877,Belgium,Student,1
+1826,A01878,Germany,General,18
+1827,A01879,Canada,Student,16
+1828,A01880,United States of America,General,7
+1829,A01881,Taiwan,General,
+1830,A01882,UK,Student,14
+1831,A01883,United States of America,General,7
+1832,A01884,Spain,General,3
+1833,A01885,United States of America,General,14
+1834,A01886,France,Student,18
+1835,A01887,United States of America,General,18
+1836,A01888,United States of America,General,15
+1837,A01889,United States of America,General,13
+1838,A01890,United States of America,General,15
+1839,A01891,United States of America,General,7
+1840,A01892,United States of America,Student,
+1841,A01893,United States of America,General,16
+1842,A01894,Germany,Student,15
+1843,A01895,United States of America,General,20
+1844,A01896,Japan,General,16
+1845,A01897,Peru,General,11
+1846,A01898,Spain,General,13
+1847,A01899,United States of America,General,11
+1848,A01900,United States of America,General,20
+1849,A01901,Mexico,Student,5
+1850,A01902,Canada,General,16
+1851,A01903,Canada,General,14
+1852,A01904,Italy,General,3
+1853,A01905,Netherlands,Student,11
+1854,A01906,United States of America,General,10
+1855,A01907,United States of America,General,15
+1856,A01908,United States of America,General,18
+1857,A01909,Canada,Student,14
+1858,A01910,United States of America,Student,17
+1859,A01911,United States of America,General,12
+1860,A01912,United States of America,Student,10
+1861,A01913,Japan,General,8
+1862,A01914,United States of America,General,14
+1863,A01915,Taiwan,Student,18
+1864,A01916,United States of America,General,14
+1865,A01917,United States of America,General,1
+1866,A01918,United States of America,Student,10
+1867,A01919,United States of America,General,4
+1868,A01920,Poland,General,20
+1869,A01921,United States of America,General,8
+1870,A01922,United States of America,General,8
+1871,A01923,United States of America,Student,15
+1872,A01924,United States of America,General,7
+1873,A01925,Canada,General,3
+1874,A01926,Australia,General,14
+1875,A01927,United States of America,Student,17
+1876,A01928,United States of America,Student,7
+1877,A01929,United States of America,Student,16
+1878,A01930,United States of America,General,14
+1879,A01931,United States of America,General,20
+1880,A01932,United States of America,Student,13
+1881,A01933,United States of America,Student,17
+1882,A01935,Russia,General,18
+1883,A01936,United States of America,General,18
+1884,A01937,Japan,Student,8
+1885,A01938,New Zealand,General,3
+1886,A01939,Germany,General,
+1887,A01940,United States of America,General,11
+1888,A01941,Japan,General,
+1889,A01942,Japan,General,2
+1890,A01943,United States of America,General,3
+1891,A01944,Brazil,General,14
+1892,A01945,France,General,17
+1893,A01946,Korea,General,15
+1894,A01947,United States of America,Student,8
+1895,A01948,Taiwan,General,13
+1896,A01949,Australia,General,7
+1897,A01950,Japan,General,2
+1898,A01951,Taiwan,Student,11
+1899,A01952,Japan,Student,11
+1900,A01953,Thailand,General,5
+1901,A01954,United States of America,Student,5
+1902,A01955,Korea,General,17
+1903,A01956,United States of America,General,4
+1904,A01957,Japan,Student,17
+1905,A01958,India,Developing country (*上記注釈をご参照ください),16
+1906,A01959,Japan,General,8
+1907,A01960,China,General,15
+1908,A01961,Japan,General,18
+1909,A01962,Taiwan,General,20
+1910,A01963,Japan,General,5
+1911,A01964,China,General,16
+1912,A01965,United States of America,General,
+1913,A01966,Taiwan,Student,2
+1914,A01967,Japan,General,10
+1915,A01968,Japan,Student,10
+1916,A01969,Japan,General,11
+1917,A01970,Japan,General,16
+1918,A01971,China,General,14
+1919,A01972,Japan,General,9
+1920,A01973,China,General,20
+1921,A01974,Thailand,Student,3
+1922,A01975,Japan,Student,7
+1923,A01976,Thailand,General,13
+1924,A01977,United States of America,General,18
+1925,A01978,Thailand,General,13
+1926,A01979,Japan,Student,6
+1927,A01980,United States of America,Student,13
+1928,A01981,Australia,Student,7
+1929,A01982,Japan,General,10
+1930,A01983,Japan,Student,7
+1931,A01984,China,General,15
+1932,A01986,Japan,General,5
+1933,A01987,Japan,General,5
+1934,A01988,Indonesia,General,3
+1935,A01989,Korea,General,11
+1936,A01990,Japan,General,11
+1937,A01991,China,Student,18
+1938,A01992,India,Developing country (*上記注釈をご参照ください),2
+1939,A01993,Japan,Student,7
+1940,A01994,Japan,General,15
+1941,A01995,Japan,Student,20
+1942,A01996,Japan,Student,1
+1943,A01997,Japan,General,6
+1944,A01998,Japan,Student,7
+1945,A01999,India,General,10
+1946,A02000,Korea,Student,13
+1947,A02001,United States of America,General,13
+1948,A02002,Japan,General,14
+1949,A02003,China,Student,14
+1950,A02004,Japan,General,7
+1951,A02005,Japan,General,3
+1952,A02006,Hong Kong,Student,5
+1953,A02007,Japan,General,17
+1954,A02008,Korea,General,13
+1955,A02009,Korea,General,6
+1956,A02010,Australia,General,7
+1957,A02011,Japan,General,15
+1958,A02012,Taiwan,General,18
+1959,A02013,Japan,General,5
+1960,A02014,Japan,General,17
+1961,A02015,China,General,10
+1962,A02016,Japan,General,12
+1963,A02017,Australia,General,
+1964,A02018,Japan,General,15
+1965,A02019,Japan,Student,18
+1966,A02020,Taiwan,General,18
+1967,A02021,China,General,10
+1968,A02022,Japan,General,18
+1969,A02024,China,General,18
+1970,A02025,China,Student,16
+1971,A02026,Korea,Student,6
+1972,A02027,Japan,General,17
+1973,A02028,Israel,General,15
+1974,A02029,China,General,8
+1975,A02030,Japan,Student,5
+1976,A02031,Japan,Student,5
+1977,A02032,Italy,Accompanying guest,
+1978,A02033,China,General,0
+1979,A02034,Japan,Student,19
+1980,A02035,Denmark,General,16
+1981,A02036,China,General,2
+1982,A02037,Korea,General,16
+1983,A02038,China,Student,14
+1984,A02039,China,General,14
+1985,A02040,China,General,
+1986,A02041,Japan,General,7
+1987,A02042,Japan,General,14
+1988,A02043,Italy,General,12
+1989,A02045,Japan,General,
+1990,A02046,Taiwan,Student,17
+1991,A02047,Taiwan,Student,17
+1992,A02048,Germany,General,7
+1993,A02049,China,General,
+1994,A02050,Finland,Student,18
+1995,A02051,Japan,General,14
+1996,A02052,Japan,General,14
+1997,A02053,Japan,Accompanying guest,
+1998,A02054,China,Accompanying guest,
+1999,A02055,China,Student,0
+2000,A02056,Korea,General,7
+2001,A02057,Japan,General,
+2002,A02058,Germany,General,2
+2003,A02059,Japan,Student,7
+2004,A02060,China,Student,3
+2005,A02061,France,Student,18
+2006,A02062,Korea,Accompanying guest,17
+2007,A02063,Japan,Student,20
+2008,A02064,Russia,General,18
+2009,A02065,South Africa,General,10
+2010,A02066,South Africa,General,5
+2011,A02067,France,Student,14
+2012,A02068,Taiwan,Student,17
+2013,A02069,Japan,General,10
+2014,A02070,Hong Kong,Student,5
+2015,A02071,Taiwan,Student,14
+2016,A02072,UK,Student,5
+2017,A02073,Belgium,Student,14
+2018,A02074,Poland,General,16
+2019,A02075,Germany,General,10
+2020,A02076,Japan,Student,18
+2021,A02077,Japan,General,11
+2022,A02078,Belgium,Student,13
+2023,A02079,Denmark,Student,16
+2024,A02080,UK,Student,17
+2025,A02081,UK,General,15
+2026,A02082,India,Developing country (*上記注釈をご参照ください),6
+2027,A02083,Switzerland,General,12
+2028,A02084,France,Student,10
+2029,A02085,UK,General,19
+2030,A02086,UK,General,8
+2031,A02087,UK,General,7
+2032,A02089,Japan,Student,7
+2033,A02090,Taiwan,General,7
+2034,A02091,Australia,General,18
+2035,A02092,Japan,Student,7
+2036,A02093,Taiwan,Student,13
+2037,A02094,Germany,General,10
+2038,A02095,Israel,General,16
+2039,A02096,Japan,General,11
+2040,A02097,Sweden,Student,7
+2041,A02098,Japan,Student,14
+2042,A02099,United States of America,General,8
+2043,A02100,Italy,General,3
+2044,A02101,United States of America,General,10
+2045,A02102,Italy,General,7
+2046,A02103,Czech Republic,General,16
+2047,A02104,Canada,General,14
+2048,A02105,Japan,Student,
+2049,A02106,United States of America,General,12
+2050,A02107,Taiwan,Accompanying guest,7
+2051,A02108,Germany,General,18
+2052,A02109,Italy,General,11
+2053,A02110,Japan,General,11
+2054,A02111,Germany,General,13
+2055,A02112,Italy,Student,12
+2056,A02113,Belgium,Student,3
+2057,A02114,Sweden,Student,7
+2058,A02115,Japan,General,10
+2059,A02116,Germany,General,16
+2060,A02117,Sweden,General,5
+2061,A02118,Japan,Student,5
+2062,A02119,Taiwan,General,5
+2063,A02120,Zambia,Developing country (*上記注釈をご参照ください),13
+2064,A02121,Latvia,General,18
+2065,A02122,China,General,15
+2066,A02123,United States of America,General,11
+2067,A02124,United States of America,General,10
+2068,A02125,Italy,Student,20
+2069,A02126,United States of America,General,10
+2070,A02127,Canada,General,7
+2071,A02128,United States of America,General,7
+2072,A02129,Japan,General,4
+2073,A02130,Italy,General,14
+2074,A02131,Singapore,General,8
+2075,A02132,UK,General,8
+2076,A02133,UK,Student,14
+2077,A02134,Greece,General,12
+2078,A02135,United States of America,General,7
+2079,A02136,UK,General,16
+2080,A02137,United States of America,General,4
+2081,A02138,United States of America,General,8
+2082,A02139,United States of America,General,8
+2083,A02140,Japan,Student,4
+2084,A02141,United States of America,Student,4
+2085,A02142,Canada,General,8
+2086,A02143,Argentine,General,18
+2087,A02144,United States of America,General,18
+2088,A02145,Thailand,General,18
+2089,A02146,United States of America,General,15
+2090,A02147,United States of America,General,18
+2091,A02148,United States of America,General,13
+2092,A02149,Thailand,Accompanying guest,
+2093,A02150,United States of America,General,2
+2094,A02151,United States of America,Student,7
+2095,A02152,United States of America,General,18
+2096,A02153,United States of America,General,2
+2097,A02154,Puerto Rico,General,5
+2098,A02155,Kenya,Developing country (*上記注釈をご参照ください),11
+2099,A02156,Kenya,Student,3
+2100,A02157,United States of America,Student,13
+2101,A02158,Taiwan,Student,13
+2102,A02159,United States of America,Student,2
+2103,A02160,United States of America,General,16
+2104,A02161,Puerto Rico,Student,11
+2105,A02162,Greece,General,14
+2106,A02163,Japan,Student,17
+2107,A02164,United States of America,Student,10
+2108,A02165,Puerto Rico,General,13
+2109,A02166,United States of America,General,17
+2110,A02167,United States of America,General,8
+2111,A02168,United States of America,General,14
+2112,A02169,United States of America,General,15
+2113,A02170,United States of America,Student,16
+2114,A02171,UK,Student,14
+2115,A02172,United States of America,General,16
+2116,A02173,United States of America,General,18
+2117,A02174,United States of America,General,20
+2118,A02175,United States of America,General,11
+2119,A02176,Belgium,Student,12
+2120,A02177,United States of America,General,16
+2121,A02178,United States of America,General,10
+2122,A02179,United States of America,General,8
+2123,A02180,Norway,General,5
+2124,A02181,United States of America,Student,7
+2125,A02182,United States of America,Student,16
+2126,A02183,Belgium,Accompanying guest,
+2127,A02184,United States of America,General,6
+2128,A02185,United States of America,Student,15
+2129,A02186,Austria,General,18
+2130,A02187,Croatia,General,14
+2131,A02188,United States of America,General,3
+2132,A02189,United States of America,Student,18
+2133,A02190,Canada,General,14
+2134,A02191,Canada,General,14
+2135,A02192,United States of America,Student,7
+2136,A02193,United States of America,General,7
+2137,A02194,United States of America,Student,10
+2138,A02195,United States of America,General,14
+2139,A02196,Spain,General,3
+2140,A02197,United States of America,General,16
+2141,A02198,United States of America,Student,5
+2142,A02199,United States of America,General,14
+2143,A02200,United States of America,General,7
+2144,A02201,United States of America,General,
+2145,A02202,United States of America,General,16
+2146,A02203,United States of America,General,3
+2147,A02204,United States of America,General,18
+2148,A02205,Iran,Developing country (*上記注釈をご参照ください),13
+2149,A02206,Australia,Student,3
+2150,A02207,Korea,Student,
+2151,A02208,Korea,General,
+2152,A02209,Japan,General,6
+2153,A02210,Italy,General,8
+2154,A02211,Brazil,General,4
+2155,A02212,United States of America,General,16
+2156,A02213,Korea,Student,14
+2157,A02214,Japan,General,14
+2158,A02215,Japan,General,4
+2159,A02216,UK,General,13
+2160,A02217,Singapore,General,19
+2161,A02218,Japan,General,16
+2162,A02219,Puerto Rico,Student,7
+2163,A02220,Australia,General,14
+2164,A02221,Japan,General,1
+2165,A02222,United States of America,General,14
+2166,A02223,Australia,General,12
+2167,A02224,Japan,General,2
+2168,A02225,Japan,General,2
+2169,A02226,China,Student,17
+2170,A02227,Japan,General,17
+2171,A02228,Japan,General,14
+2172,A02229,Taiwan,General,14
+2173,A02230,China,General,1
+2174,A02231,Japan,General,16
+2175,A02232,Japan,General,7
+2176,A02233,United States of America,Student,4
+2177,A02234,United States of America,General,17
+2178,A02235,Japan,General,4
+2179,A02236,China,General,
+2180,A02237,Japan,Student,7
+2181,A02238,Australia,General,14
+2182,A02239,Taiwan,General,5
+2183,A02240,Japan,General,11
+2184,A02241,Japan,General,10
+2185,A02242,Thailand,General,5
+2186,A02243,Thailand,Student,18
+2187,A02244,Thailand,General,18
+2188,A02246,Japan,General,14
+2189,A02247,Thailand,Student,1
+2190,A02248,China,Student,4
+2191,A02249,China,General,16
+2192,A02250,Australia,General,7
+2193,A02251,Japan,Student,
+2194,A02252,Hong Kong,General,5
+2195,A02253,Indonesia,Student,20
+2196,A02254,Japan,General,13
+2197,A02255,Korea,General,18
+2198,A02256,United States of America,General,20
+2199,A02257,Japan,Student,2
+2200,A02258,Japan,General,7
+2201,A02260,China,General,14
+2202,A02261,Japan,General,7
+2203,A02262,Taiwan,Student,12
+2204,A02263,Korea,Student,2
+2205,A02264,Japan,General,14
+2206,A02265,Japan,Student,9
+2207,A02266,Japan,Student,18
+2208,A02267,Japan,General,17
+2209,A02268,United States of America,General,14
+2210,A02269,Poland,General,2
+2211,A02270,Japan,General,7
+2212,A02271,China,Developing country (*上記注釈をご参照ください),
+2213,A02272,Korea,Student,16
+2214,A02273,Taiwan,Student,7
+2215,A02274,Korea,Student,18
+2216,A02275,Japan,General,13
+2217,A02276,Italy,General,14
+2218,A02277,Taiwan,Student,3
+2219,A02278,Japan,Student,7
+2220,A02279,Japan,General,11
+2221,A02280,Philippines,Developing country (*上記注釈をご参照ください),
+2222,A02281,China,Student,
+2223,A02282,Japan,Student,8
+2224,A02283,China,General,17
+2225,A02284,Japan,General,8
+2226,A02285,China,Student,10
+2227,A02286,China,Student,
+2228,A02287,Japan,General,10
+2229,A02288,Japan,Student,5
+2230,A02289,Germany,Student,10
+2231,A02290,Japan,Student,1
+2232,A02291,Japan,General,16
+2233,A02292,China,General,
+2234,A02293,Japan,Student,11
+2235,A02294,Poland,General,1
+2236,A02295,Australia,General,7
+2237,A02296,Germany,General,4
+2238,A02297,Japan,General,10
+2239,A02298,Taiwan,Student,13
+2240,A02299,Czech Republic,General,17
+2241,A02300,China,Student,4
+2242,A02301,Kenya,Developing country (*上記注釈をご参照ください),2
+2243,A02302,France,General,12
+2244,A02303,Brazil,General,3
+2245,A02304,China,General,20
+2246,A02305,Italy,General,20
+2247,A02306,Thailand,General,14
+2248,A02307,Japan,General,15
+2249,A02308,China,General,14
+2250,A02309,China,Student,10
+2251,A02310,Brazil,General,3
+2252,A02311,Italy,General,3
+2253,A02312,China,General,17
+2254,A02313,Germany,General,7
+2255,A02314,Germany,Student,16
+2256,A02315,Spain,General,18
+2257,A02316,UK,General,20
+2258,A02317,Taiwan,General,14
+2259,A02318,Japan,General,11
+2260,A02319,Finland,General,4
+2261,A02320,Japan,Student,18
+2262,A02321,UK,General,14
+2263,A02322,Japan,General,14
+2264,A02323,China,Student,14
+2265,A02324,Turkey,General,10
+2266,A02325,Germany,General,15
+2267,A02326,Israel,General,14
+2268,A02327,Japan,Student,7
+2269,A02328,France,General,7
+2270,A02329,Belgium,Student,15
+2271,A02330,Belgium,Student,10
+2272,A02331,Germany,Student,5
+2273,A02332,UK,Student,20
+2274,A02333,Germany,Student,7
+2275,A02334,Russia,General,12
+2276,A02335,Poland,General,16
+2277,A02336,China,General,15
+2278,A02337,United States of America,General,10
+2279,A02338,Czech Republic,General,7
+2280,A02339,Singapore,General,7
+2281,A02340,Brazil,General,18
+2282,A02341,China,General,7
+2283,A02342,India,Developing country (*上記注釈をご参照ください),16
+2284,A02343,Japan,General,3
+2285,A02344,Sweden,General,5
+2286,A02345,Australia,Student,7
+2287,A02346,Australia,General,18
+2288,A02347,China,General,20
+2289,A02348,Norway,General,14
+2290,A02349,Germany,General,14
+2291,A02350,Japan,General,7
+2292,A02351,Canada,General,5
+2293,A02352,France,General,4
+2294,A02353,Greece,General,14
+2295,A02354,Serbia,General,14
+2296,A02355,Poland,General,16
+2297,A02356,Sweden,General,5
+2298,A02357,Poland,Student,16
+2299,A02358,Israel,Student,3
+2300,A02359,Belgium,General,3
+2301,A02360,Thailand,General,11
+2302,A02361,Canada,General,5
+2303,A02362,Australia,Student,18
+2304,A02363,Brazil,General,14
+2305,A02364,United States of America,General,15
+2306,A02365,United States of America,General,8
+2307,A02366,Canada,General,18
+2308,A02367,United States of America,General,13
+2309,A02368,Belgium,General,7
+2310,A02369,United Arab Emirates,General,5
+2311,A02370,Russia,Student,18
+2312,A02371,Brazil,Student,4
+2313,A02372,Kenya,Developing country (*上記注釈をご参照ください),3
+2314,A02373,United States of America,General,16
+2315,A02374,Belgium,General,15
+2316,A02375,United States of America,General,
+2317,A02376,Italy,General,14
+2318,A02377,Finland,General,18
+2319,A02378,United States of America,General,13
+2320,A02379,United States of America,General,14
+2321,A02380,United States of America,General,10
+2322,A02381,Austria,Student,20
+2323,A02382,United States of America,General,14
+2324,A02383,United States of America,General,16
+2325,A02384,Canada,General,7
+2326,A02385,Indonesia,General,
+2327,A02386,United States of America,General,10
+2328,A02387,Mexico,General,6
+2329,A02388,United States of America,General,16
+2330,A02389,United States of America,General,13
+2331,A02390,United States of America,General,14
+2332,A02391,United States of America,Student,3
+2333,A02392,United States of America,General,14
+2334,A02393,New Zealand,Student,4
+2335,A02394,United States of America,General,14
+2336,A02395,Canada,General,17
+2337,A02396,Turkey,General,14
+2338,A02397,United States of America,General,13
+2339,A02398,United States of America,General,7
+2340,A02399,United States of America,General,10
+2341,A02400,Fiji,Student,14
+2342,A02401,Malaysia,General,7
+2343,A02402,Ghana,Developing country (*上記注釈をご参照ください),
+2344,A02403,Japan,General,2
+2345,A02404,China,General,7
+2346,A02405,United States of America,General,15
+2347,A02406,Australia,General,11
+2348,A02407,Japan,General,4
+2349,A02408,China,General,14
+2350,A02409,China,Student,14
+2351,A02410,Japan,Student,11
+2352,A02411,China,General,17
+2353,A02412,Japan,General,5
+2354,A02413,Taiwan,Student,18
+2355,A02414,Iran,Student,3
+2356,A02415,Japan,General,3
+2357,A02416,Japan,Student,12
+2358,A02417,Japan,General,18
+2359,A02418,Japan,General,7
+2360,A02419,Germany,General,5
+2361,A02420,China,Student,6
+2362,A02421,Germany,Accompanying guest,
+2363,A02422,India,Accompanying guest,20
+2364,A02423,Taiwan,General,
+2365,A02424,China,General,
+2366,A02425,Japan,General,18
+2367,A02426,Taiwan,General,17
+2368,A02427,China,General,3
+2369,A02428,Japan,Student,7
+2370,A02429,Japan,Student,16
+2371,A02430,China,General,7
+2372,A02431,Israel,General,7
+2373,A02432,Italy,General,3
+2374,A02433,United States of America,General,3
+2375,A02435,United States of America,General,20
+2376,A02436,Taiwan,Student,17
+2377,A02437,Japan,Student,0
+2378,A02438,Taiwan,General,7
+2379,A02439,Japan,Student,18
+2380,A02440,Japan,Student,
+2381,A02441,Taiwan,General,3
+2382,A02442,Russia,General,20
+2383,A02443,Japan,General,7
+2384,A02444,Taiwan,General,18
+2385,A02445,Australia,Student,7
+2386,A02446,Czech Republic,General,7
+2387,A02447,Belgium,General,15
+2388,A02448,Japan,General,10
+2389,A02449,India,Student,4
+2390,A02450,Japan,Student,3
+2391,A02451,Israel,General,3
+2392,A02452,China,Student,7
+2393,A02453,Belgium,General,3
+2394,A02454,Kenya,Developing country (*上記注釈をご参照ください),3
+2395,A02455,Greece,Student,14
+2396,A02456,Belgium,General,13
+2397,A02457,Japan,Student,20
+2398,A02458,Cote d'Ivoire,General,13
+2399,A02459,Italy,General,14
+2400,A02460,Hong Kong,Student,5
+2401,A02461,Sweden,General,7
+2402,A02462,United States of America,Student,10
+2403,A02463,Belgium,General,17
+2404,A02464,Chile,General,20
+2405,A02465,United States of America,General,7
+2406,A02466,United States of America,General,10
+2407,A02467,United States of America,Student,8
+2408,A02468,Canada,General,15
+2409,A02469,Canada,Student,16
+2410,A02470,Germany,Student,5
+2411,A02471,United States of America,General,7
+2412,A02472,Australia,General,3
+2413,A02473,Australia,General,11
+2414,A02474,Japan,General,17
+2415,A02475,Australia,General,8
+2416,A02476,Japan,General,13
+2417,A02477,Japan,General,8
+2418,A02478,China,General,20
+2419,A02479,Korea,Student,15
+2420,A02480,New Zealand,General,14
+2421,A02481,Australia,General,8
+2422,A02482,China,Student,14
+2423,A02483,Australia,General,15
+2424,A02484,China,General,7
+2425,A02485,Australia,General,8
+2426,A02486,Japan,Student,15
+2427,A02487,Australia,General,3
+2428,A02488,Singapore,General,5
+2429,A02489,Japan,Student,18
+2430,A02490,Taiwan,Student,18
+2431,A02491,China,General,1
+2432,A02492,Singapore,Student,11
+2433,A02493,Australia,General,4
+2434,A02494,New Zealand,General,3
+2435,A02495,Korea,Student,18
+2436,A02496,Japan,Student,17
+2437,A02497,Korea,Student,18
+2438,A02498,Japan,General,14
+2439,A02500,Japan,Student,10
+2440,A02501,Korea,Student,18
+2441,A02502,Japan,General,7
+2442,A02503,Korea,General,18
+2443,A02504,Japan,Student,16
+2444,A02505,Japan,General,7
+2445,A02506,China,General,4
+2446,A02507,China,General,1
+2447,A02508,China,General,1
+2448,A02509,Korea,Student,18
+2449,A02510,Kenya,Developing country (*上記注釈をご参照ください),11
+2450,A02511,China,General,20
+2451,A02512,Taiwan,General,18
+2452,A02513,Australia,Student,14
+2453,A02514,Korea,Student,20
+2454,A02516,China,Student,14
+2455,A02517,Taiwan,General,
+2456,A02518,Taiwan,General,14
+2457,A02519,Croatia,General,14
+2458,A02520,Korea,General,17
+2459,A02521,Korea,General,10
+2460,A02522,Japan,Student,8
+2461,A02523,Japan,Student,11
+2462,A02524,Japan,General,14
+2463,A02525,Belgium,General,13
+2464,A02526,Taiwan,General,14
+2465,A02527,Slovenia,General,16
+2466,A02528,Japan,Student,8
+2467,A02529,Taiwan,General,3
+2468,A02530,Japan,Accompanying guest,3
+2469,A02531,Taiwan,Student,15
+2470,A02532,Croatia,General,
+2471,A02533,Croatia,General,5
+2472,A02534,China,General,
+2473,A02535,China,Student,14
+2474,A02536,Korea,General,18
+2475,A02537,Japan,General,13
+2476,A02538,Czech Republic,General,7
+2477,A02539,Japan,General,16
+2478,A02540,Japan,Student,16
+2479,A02541,United States of America,General,6
+2480,A02542,Netherlands,General,7
+2481,A02543,China,General,16
+2482,A02544,Korea,Student,16
+2483,A02546,Sweden,Student,12
+2484,A02547,Japan,Student,13
+2485,A02548,China,General,1
+2486,A02549,Korea,Student,13
+2487,A02550,Sweden,General,5
+2488,A02551,Norway,General,14
+2489,A02552,France,General,18
+2490,A02553,Sweden,General,6
+2491,A02554,Canada,Student,13
+2492,A02555,Japan,Student,3
+2493,A02556,Japan,Student,17
+2494,A02557,Australia,Student,11
+2495,A02558,France,General,12
+2496,A02559,Japan,General,3
+2497,A02560,Germany,Student,17
+2498,A02562,China,General,
+2499,A02563,Poland,General,
+2500,A02564,UK,General,8
+2501,A02565,Taiwan,General,13
+2502,A02566,Korea,Student,18
+2503,A02567,UK,General,7
+2504,A02568,Austria,General,3
+2505,A02569,Italy,General,11
+2506,A02570,Italy,General,13
+2507,A02571,Sweden,General,4
+2508,A02572,Norway,General,13
+2509,A02573,Germany,Student,7
+2510,A02574,Norway,General,13
+2511,A02575,Japan,General,2
+2512,A02576,UK,General,7
+2513,A02577,Japan,General,5
+2514,A02578,Italy,General,3
+2515,A02579,Japan,Guest (*このカテゴリは選択しないでください),
+2516,A02580,Switzerland,General,10
+2517,A02581,Brazil,General,4
+2518,A02582,Czech Republic,Student,7
+2519,A02583,China,General,
+2520,A02586,China,Student,14
+2521,A02587,United States of America,General,17
+2522,A02588,China,Student,12
+2523,A02589,Japan,General,18
+2524,A02590,Germany,General,7
+2525,A02592,France,General,18
+2526,A02593,United States of America,Student,11
+2527,A02594,Sweden,General,5
+2528,A02595,Japan,Student,5
+2529,A02596,Czech Republic,General,2
+2530,A02597,China,General,4
+2531,A02598,China,General,1
+2532,A02599,Croatia,General,
+2533,A02600,Japan,Student,8
+2534,A02601,Italy,General,2
+2535,A02602,Germany,General,10
+2536,A02603,United States of America,Student,10
+2537,A02604,Philippines,Developing country (*上記注釈をご参照ください),8
+2538,A02605,China,General,20
+2539,A02606,France,General,7
+2540,A02607,Russia,General,18
+2541,A02608,Germany,General,5
+2542,A02609,Italy,General,12
+2543,A02610,Indonesia,General,7
+2544,A02611,France,General,14
+2545,A02612,Taiwan,Student,14
+2546,A02613,Canada,Student,11
+2547,A02614,Greece,General,14
+2548,A02615,Spain,General,8
+2549,A02616,Germany,Accompanying guest,
+2550,A02617,United States of America,Student,6
+2551,A02618,Chile,General,14
+2552,A02619,Spain,General,3
+2553,A02620,United States of America,Student,10
+2554,A02621,Canada,General,7
+2555,A02622,Sweden,Student,5
+2556,A02623,United States of America,General,20
+2557,A02624,Canada,General,16
+2558,A02625,Canada,Student,18
+2559,A02626,United States of America,Student,3
+2560,A02627,United States of America,General,13
+2561,A02628,South Africa,General,16
+2562,A02629,Germany,Student,
+2563,A02630,United States of America,Student,20
+2564,A02631,UK,General,11
+2565,A02632,Greece,General,14
+2566,A02633,Canada,General,16
+2567,A02634,Japan,General,15
+2568,A02635,United States of America,General,4
+2569,A02636,Netherlands,General,19
+2570,A02637,United States of America,Student,5
+2571,A02638,United States of America,General,13
+2572,A02639,Canada,General,18
+2573,A02640,Germany,General,18
+2574,A02641,United States of America,General,
+2575,A02642,United States of America,General,13
+2576,A02643,United States of America,General,16
+2577,A02644,United States of America,General,13
+2578,A02645,Spain,General,1
+2579,A02646,Canada,Student,12
+2580,A02647,United States of America,General,7
+2581,A02648,United States of America,General,15
+2582,A02649,Japan,General,6
+2583,A02650,United States of America,General,11
+2584,A02651,Canada,General,14
+2585,A02652,United States of America,General,
+2586,A02653,United States of America,Student,10
+2587,A02654,Sweden,General,18
+2588,A02655,United States of America,Student,18
+2589,A02656,Japan,Student,7
+2590,A02657,Czech Republic,Student,6
+2591,A02658,Greece,General,3
+2592,A02659,United States of America,General,20
+2593,A02660,Australia,General,18
+2594,A02661,Australia,General,15
+2595,A02662,Japan,General,11
+2596,A02663,Japan,General,
+2597,A02665,Australia,General,3
+2598,A02666,Japan,General,
+2599,A02667,United States of America,General,12
+2600,A02669,Taiwan,Student,17
+2601,A02670,Japan,General,18
+2602,A02671,China,General,4
+2603,A02672,Canada,General,16
+2604,A02673,Japan,General,14
+2605,A02674,United States of America,General,7
+2606,A02675,Japan,General,
+2607,A02676,Japan,General,7
+2608,A02677,Japan,General,7
+2609,A02678,China,General,6
+2610,A02679,Japan,Student,7
+2611,A02680,Thailand,General,14
+2612,A02681,Korea,General,18
+2613,A02682,Korea,General,6
+2614,A02683,Korea,Student,14
+2615,A02684,Japan,General,15
+2616,A02685,Japan,General,7
+2617,A02686,Japan,Student,7
+2618,A02687,China,General,14
+2619,A02688,United States of America,Student,18
+2620,A02689,China,General,15
+2621,A02690,Japan,Student,18
+2622,A02691,United States of America,Student,18
+2623,A02692,United States of America,General,7
+2624,A02693,United States of America,Student,16
+2625,A02694,Japan,General,
+2626,A02695,China,Student,16
+2627,A02696,Japan,Student,3
+2628,A02697,Japan,Student,3
+2629,A02698,Japan,General,14
+2630,A02699,Japan,General,7
+2631,A02700,Japan,Student,3
+2632,A02701,Japan,General,19
+2633,A02702,Korea,General,15
+2634,A02703,Korea,General,7
+2635,A02704,Australia,Student,10
+2636,A02705,Indonesia,General,3
+2637,A02706,China,General,4
+2638,A02707,Japan,Student,11
+2639,A02708,Japan,General,17
+2640,A02709,Pakistan,General,
+2641,A02710,Japan,General,10
+2642,A02711,Italy,General,3
+2643,A02712,Cambodia,Developing country (*上記注釈をご参照ください),
+2644,A02713,Australia,General,19
+2645,A02714,Japan,General,20
+2646,A02715,China,General,8
+2647,A02716,Japan,Student,10
+2648,A02717,Philippines,Student,18
+2649,A02718,Korea,General,12
+2650,A02719,Japan,General,19
+2651,A02720,Japan,General,10
+2652,A02721,Japan,General,19
+2653,A02722,Japan,General,4
+2654,A02723,Japan,General,7
+2655,A02724,Japan,Student,3
+2656,A02725,China,Student,14
+2657,A02726,Japan,Student,16
+2658,A02728,Japan,Student,5
+2659,A02729,Taiwan,Student,7
+2660,A02730,Japan,General,7
+2661,A02731,Iran,Accompanying guest,
+2662,A02732,Japan,General,11
+2663,A02733,Korea,General,5
+2664,A02734,Japan,Student,5
+2665,A02735,Spain,General,14
+2666,A02736,Italy,General,7
+2667,A02737,Japan,Student,10
+2668,A02739,China,General,
+2669,A02741,Sweden,General,7
+2670,A02742,Taiwan,General,4
+2671,A02743,Greece,General,1
+2672,A02744,Korea,General,20
+2673,A02746,Japan,General,3
+2674,A02747,China,Student,6
+2675,A02749,Taiwan,Student,19
+2676,A02750,China,Student,15
+2677,A02751,Japan,General,13
+2678,A02752,China,General,8
+2679,A02753,Korea,General,7
+2680,A02754,Japan,General,14
+2681,A02755,Korea,General,7
+2682,A02756,China,General,18
+2683,A02757,China,General,
+2684,A02758,Korea,General,9
+2685,A02759,Japan,General,12
+2686,A02760,Singapore,General,7
+2687,A02761,Kenya,Developing country (*上記注釈をご参照ください),
+2688,A02762,China,General,
+2689,A02763,Germany,General,14
+2690,A02764,China,General,4
+2691,A02765,China,General,3
+2692,A02766,Taiwan,General,7
+2693,A02767,Taiwan,Accompanying guest,7
+2694,A02768,China,General,
+2695,A02769,China,Student,13
+2696,A02770,Japan,General,13
+2697,A02771,Belgium,Student,15
+2698,A02772,Korea,General,18
+2699,A02773,Japan,General,7
+2700,A02774,Croatia,General,14
+2701,A02775,India,General,14
+2702,A02776,Czech Republic,General,7
+2703,A02777,Japan,General,10
+2704,A02778,Japan,Accompanying guest,15
+2705,A02779,Italy,Accompanying guest,
+2706,A02780,Japan,General,14
+2707,A02781,Japan,Student,16
+2708,A02782,Croatia,General,2
+2709,A02783,Poland,General,16
+2710,A02784,Japan,Student,18
+2711,A02785,Korea,Student,12
+2712,A02786,Germany,Student,16
+2713,A02787,Poland,General,16
+2714,A02788,Germany,General,1
+2715,A02789,Japan,General,6
+2716,A02790,Japan,General,11
+2717,A02791,Italy,General,20
+2718,A02792,Russia,General,1
+2719,A02793,Germany,General,4
+2720,A02794,Japan,General,8
+2721,A02795,Japan,General,14
+2722,A02797,Italy,Student,5
+2723,A02798,Italy,Student,5
+2724,A02799,Italy,Student,5
+2725,A02800,Italy,Student,1
+2726,A02801,Hungary,General,13
+2727,A02802,Germany,General,6
+2728,A02803,Japan,General,16
+2729,A02804,Italy,General,14
+2730,A02805,UK,General,7
+2731,A02806,Italy,General,8
+2732,A02807,France,General,11
+2733,A02808,France,General,7
+2734,A02809,Kenya,Developing country (*上記注釈をご参照ください),7
+2735,A02810,Japan,General,10
+2736,A02811,Japan,Student,18
+2737,A02812,Spain,General,13
+2738,A02813,Korea,Student,13
+2739,A02814,Germany,Student,18
+2740,A02815,Germany,General,12
+2741,A02816,UK,Student,8
+2742,A02817,Germany,General,16
+2743,A02818,China,General,20
+2744,A02819,China,Student,16
+2745,A02820,Hungary,Student,
+2746,A02821,Germany,Student,18
+2747,A02822,UK,General,7
+2748,A02823,Japan,Student,
+2749,A02824,Italy,Student,14
+2750,A02825,Japan,General,14
+2751,A02826,Japan,General,9
+2752,A02827,Germany,General,14
+2753,A02828,Japan,General,5
+2754,A02829,China,General,16
+2755,A02830,Sweden,General,5
+2756,A02831,United States of America,General,4
+2757,A02832,Sweden,General,20
+2758,A02833,Japan,General,6
+2759,A02834,China,Student,4
+2760,A02835,China,General,18
+2761,A02836,Czech Republic,General,15
+2762,A02837,China,Student,14
+2763,A02838,Philippines,Student,3
+2764,A02839,United States of America,General,15
+2765,A02840,Thailand,General,7
+2766,A02841,Estonia,General,7
+2767,A02842,China,Student,14
+2768,A02843,China,Student,15
+2769,A02844,Sweden,General,7
+2770,A02845,UK,General,10
+2771,A02846,Germany,General,1
+2772,A02847,Japan,General,
+2773,A02848,Sweden,Student,13
+2774,A02849,United States of America,General,16
+2775,A02850,India,Student,5
+2776,A02851,China,General,13
+2777,A02852,China,General,18
+2778,A02853,Japan,Student,16
+2779,A02854,Belgium,Accompanying guest,18
+2780,A02855,Switzerland,General,17
+2781,A02856,Taiwan,Accompanying guest,
+2782,A02857,Greece,General,14
+2783,A02858,Japan,General,6
+2784,A02859,Japan,Student,
+2785,A02861,China,Student,12
+2786,A02862,Canada,General,8
+2787,A02863,France,General,7
+2788,A02864,Italy,Student,13
+2789,A02865,United States of America,General,14
+2790,A02866,Canada,General,
+2791,A02867,Germany,General,7
+2792,A02868,Czech Republic,General,6
+2793,A02869,Italy,Student,14
+2794,A02870,Italy,Student,5
+2795,A02872,Japan,General,6
+2796,A02874,Germany,General,4
+2797,A02875,Croatia,Student,14
+2798,A02876,United States of America,General,7
+2799,A02877,Sweden,General,7
+2800,A02878,United States of America,General,14
+2801,A02879,Denmark,General,20
+2802,A02880,Saudi Arabia,General,13
+2803,A02881,Italy,General,3
+2804,A02882,Czech Republic,Student,8
+2805,A02884,Japan,General,11
+2806,A02885,Japan,General,16
+2807,A02886,United States of America,Student,14
+2808,A02887,Israel,General,11
+2809,A02888,United States of America,General,13
+2810,A02889,Sweden,General,5
+2811,A02890,UK,Student,5
+2812,A02891,Czech Republic,Student,5
+2813,A02892,Czech Republic,Student,10
+2814,A02893,Germany,General,7
+2815,A02894,Germany,General,7
+2816,A02895,Czech Republic,Student,7
+2817,A02896,Sweden,General,7
+2818,A02897,United States of America,Student,10
+2819,A02898,Germany,General,16
+2820,A02899,United States of America,General,14
+2821,A02900,Japan,General,
+2822,A02901,Switzerland,General,12
+2823,A02902,United States of America,General,18
+2824,A02903,India,Developing country (*上記注釈をご参照ください),16
+2825,A02904,France,General,5
+2826,A02905,Brazil,Student,8
+2827,A02906,South Africa,General,14
+2828,A02907,United States of America,General,18
+2829,A02908,Italy,Student,3
+2830,A02909,Japan,Student,17
+2831,A02910,United States of America,General,16
+2832,A02911,United States of America,General,14
+2833,A02912,United States of America,General,7
+2834,A02913,United States of America,Student,18
+2835,A02914,Japan,Student,9
+2836,A02915,Greece,General,7
+2837,A02916,United States of America,General,5
+2838,A02917,United States of America,General,5
+2839,A02918,Japan,Student,16
+2840,A02919,United States of America,General,20
+2841,A02920,United States of America,General,3
+2842,A02921,United States of America,General,10
+2843,A02922,Japan,General,20
+2844,A02923,Austria,General,14
+2845,A02924,United States of America,Student,14
+2846,A02925,United States of America,Student,18
+2847,A02926,United States of America,General,6
+2848,A02927,Turkey,General,14
+2849,A02928,United States of America,General,11
+2850,A02929,Brazil,General,15
+2851,A02930,United States of America,General,12
+2852,A02931,Netherlands,General,10
+2853,A02932,United States of America,General,4
+2854,A02933,United States of America,General,7
+2855,A02934,United States of America,General,14
+2856,A02935,Italy,General,10
+2857,A02936,United States of America,General,10
+2858,A02937,Canada,Student,7
+2859,A02938,United States of America,General,20
+2860,A02939,United States of America,General,3
+2861,A02940,Canada,General,5
+2862,A02941,Italy,General,3
+2863,A02942,Brazil,Student,18
+2864,A02943,United States of America,General,3
+2865,A02944,Israel,General,14
+2866,A02945,Taiwan,General,17
+2867,A02946,Hong Kong,Student,
+2868,A02947,United States of America,Student,16
+2869,A02948,United States of America,Student,14
+2870,A02949,Singapore,General,5
+2871,A02950,United States of America,General,14
+2872,A02951,United States of America,General,10
+2873,A02952,United States of America,General,18
+2874,A02953,Italy,General,19
+2875,A02954,UK,General,7
+2876,A02955,United States of America,Student,10
+2877,A02956,United States of America,Student,11
+2878,A02957,United States of America,General,14
+2879,A02958,UK,General,10
+2880,A02959,Italy,General,20
+2881,A02960,United States of America,General,10
+2882,A02961,Serbia,General,11
+2883,A02962,United States of America,Student,7
+2884,A02963,United States of America,General,8
+2885,A02964,Japan,General,14
+2886,A02965,UK,General,8
+2887,A02966,Canada,General,17
+2888,A02967,Australia,General,6
+2889,A02968,Ghana,Developing country (*上記注釈をご参照ください),15
+2890,A02969,United States of America,General,10
+2891,A02970,United States of America,General,14
+2892,A02971,United States of America,Student,8
+2893,A02972,UK,Student,18
+2894,A02973,United States of America,Student,7
+2895,A02974,UK,General,8
+2896,A02975,Chile,General,16
+2897,A02976,United States of America,General,7
+2898,A02977,Switzerland,General,12
+2899,A02978,France,General,14
+2900,A02979,United States of America,General,8
+2901,A02980,Canada,General,16
+2902,A02981,UK,Student,18
+2903,A02982,Italy,General,14
+2904,A02983,United States of America,Student,13
+2905,A02984,Japan,General,14
+2906,A02985,United States of America,General,16
+2907,A02986,Netherlands,General,19
+2908,A02987,United States of America,General,10
+2909,A02988,United States of America,General,16
+2910,A02989,United States of America,Student,18
+2911,A02990,Netherlands,General,7
+2912,A02991,United States of America,Student,18
+2913,A02992,Japan,General,5
+2914,A02993,Japan,General,18
+2915,A02994,United States of America,Student,13
+2916,A02995,Canada,General,16
+2917,A02996,UK,General,
+2918,A02997,Japan,General,0
+2919,A02998,Japan,General,10
+2920,A02999,United States of America,Student,16
+2921,A03000,Japan,Accompanying guest,18
+2922,A03001,China,Student,10
+2923,A03002,Australia,Student,3
+2924,A03003,Sri Lanka,Developing country (*上記注釈をご参照ください),14
+2925,A03004,United States of America,General,8
+2926,A03005,Japan,General,2
+2927,A03006,China,General,
+2928,A03007,Korea,Student,16
+2929,A03008,Colombia,General,13
+2930,A03009,United States of America,General,10
+2931,A03010,Singapore,Student,5
+2932,A03011,Japan,General,7
+2933,A03012,Japan,General,7
+2934,A03013,Australia,General,14
+2935,A03014,United States of America,General,14
+2936,A03015,Singapore,Student,13
+2937,A03016,Japan,General,7
+2938,A03017,Germany,General,18
+2939,A03018,India,Developing country (*上記注釈をご参照ください),16
+2940,A03019,Japan,General,3
+2941,A03020,United States of America,General,20
+2942,A03021,China,Student,4
+2943,A03022,Japan,Student,7
+2944,A03023,Japan,General,3
+2945,A03024,Australia,Student,11
+2946,A03025,United States of America,General,17
+2947,A03026,Japan,General,3
+2948,A03027,Taiwan,General,
+2949,A03028,Canada,General,11
+2950,A03029,Japan,Accompanying guest,15
+2951,A03030,Hong Kong,Student,5
+2952,A03031,Japan,General,10
+2953,A03032,United States of America,General,7
+2954,A03033,Japan,General,17
+2955,A03034,Japan,General,16
+2956,A03035,Japan,General,19
+2957,A03036,Philippines,Developing country (*上記注釈をご参照ください),
+2958,A03037,Singapore,Student,6
+2959,A03038,Australia,Student,11
+2960,A03039,Australia,Student,15
+2961,A03040,Japan,General,
+2962,A03041,United States of America,General,19
+2963,A03042,Taiwan,General,7
+2964,A03043,Canada,General,5
+2965,A03044,United States of America,General,18
+2966,A03045,Singapore,General,18
+2967,A03046,China,Student,10
+2968,A03047,Australia,Student,11
+2969,A03048,Japan,General,2
+2970,A03049,Russia,Student,3
+2971,A03050,Bangladesh,Developing country (*上記注釈をご参照ください),7
+2972,A03051,Japan,Student,11
+2973,A03052,China,General,15
+2974,A03053,Australia,General,18
+2975,A03054,Japan,Accompanying guest,20
+2976,A03055,Taiwan,Student,7
+2977,A03056,Philippines,Developing country (*上記注釈をご参照ください),14
+2978,A03057,Korea,Student,7
+2979,A03058,Korea,Student,14
+2980,A03059,Hong Kong,General,7
+2981,A03060,Taiwan,Accompanying guest,
+2982,A03061,China,Student,14
+2983,A03062,Taiwan,Accompanying guest,13
+2984,A03063,China,Student,10
+2985,A03064,Japan,Student,5
+2986,A03065,Japan,Accompanying guest,3
+2987,A03066,Japan,Student,19
+2988,A03067,China,Student,6
+2989,A03068,United States of America,Student,20
+2990,A03069,Czech Republic,General,11
+2991,A03070,Japan,General,14
+2992,A03071,Australia,General,7
+2993,A03072,Japan,Student,7
+2994,A03073,UK,General,11
+2995,A03074,Germany,General,16
+2996,A03075,Korea,Student,7
+2997,A03076,Korea,General,4
+2998,A03077,Japan,Student,19
+2999,A03078,United States of America,Student,14
+3000,A03079,Korea,General,7
+3001,A03080,United States of America,General,13
+3002,A03081,United States of America,General,8
+3003,A03082,Japan,General,17
+3004,A03083,United States of America,General,3
+3005,A03084,United States of America,General,10
+3006,A03085,Japan,Student,16
+3007,A03086,Dominican Republic,Student,20
+3008,A03087,Japan,Student,18
+3009,A03088,Korea,General,12
+3010,A03089,Japan,Student,18
+3011,A03090,United States of America,General,13
+3012,A03091,Japan,Student,18
+3013,A03092,United States of America,Student,18
+3014,A03093,Korea,General,15
+3015,A03094,China,General,
+3016,A03095,Brazil,General,8
+3017,A03096,China,General,0
+3018,A03097,Philippines,Developing country (*上記注釈をご参照ください),8
+3019,A03098,India,Developing country (*上記注釈をご参照ください),8
+3020,A03099,China,General,16
+3021,A03100,Japan,General,18
+3022,A03101,Japan,Student,
+3023,A03102,United States of America,General,18
+3024,A03103,Korea,Student,16
+3025,A03104,Japan,Student,18
+3026,A03105,Japan,General,
+3027,A03106,Japan,Student,2
+3028,A03107,Japan,General,10
+3029,A03108,Korea,General,14
+3030,A03109,United States of America,Student,14
+3031,A03110,Japan,Student,0
+3032,A03111,Australia,General,18
+3033,A03112,Korea,General,15
+3034,A03113,Japan,Student,14
+3035,A03114,Korea,General,9
+3036,A03115,Korea,Student,7
+3037,A03116,Korea,General,3
+3038,A03117,Japan,General,5
+3039,A03118,Japan,General,8
+3040,A03119,China,General,20
+3041,A03120,Taiwan,General,13
+3042,A03121,Taiwan,General,7
+3043,A03122,Japan,General,13
+3044,A03123,China,General,
+3045,A03124,Japan,Student,7
+3046,A03125,China,General,4
+3047,A03126,United States of America,Student,14
+3048,A03127,Japan,Student,16
+3049,A03128,Japan,General,13
+3050,A03129,Philippines,Student,14
+3051,A03130,Korea,Accompanying guest,2
+3052,A03131,Mexico,Student,5
+3053,A03132,Japan,Student,7
+3054,A03133,Korea,Student,11
+3055,A03134,Taiwan,General,
+3056,A03135,Japan,Student,0
+3057,A03136,Japan,Student,16
+3058,A03137,Japan,Student,8
+3059,A03138,Malaysia,General,14
+3060,A03139,Indonesia,General,14
+3061,A03140,Finland,General,18
+3062,A03141,Mexico,General,5
+3063,A03142,Switzerland,Student,7
+3064,A03143,United States of America,General,14
+3065,A03144,Iran,Developing country (*上記注釈をご参照ください),13
+3066,A03145,Indonesia,General,13
+3067,A03146,Korea,Student,18
+3068,A03147,China,Student,7
+3069,A03148,South Africa,Student,3
+3070,A03149,China,General,7
+3071,A03150,Korea,General,18
+3072,A03151,Hong Kong,General,5
+3073,A03152,China,Student,3
+3074,A03153,Korea,Student,2
+3075,A03154,United States of America,General,16
+3076,A03155,Japan,Student,0
+3077,A03156,Italy,General,15
+3078,A03157,China,General,
+3079,A03158,Finland,General,18
+3080,A03159,Japan,General,7
+3081,A03160,China,Student,3
+3082,A03161,China,General,6
+3083,A03162,Belgium,Student,12
+3084,A03163,Japan,Student,3
+3085,A03164,China,Student,
+3086,A03165,China,Student,14
+3087,A03166,Japan,General,
+3088,A03167,Korea,General,18
+3089,A03168,China,Student,10
+3090,A03169,China,General,4
+3091,A03170,Germany,Student,10
+3092,A03171,Japan,Student,7
+3093,A03172,South Africa,General,14
+3094,A03173,Korea,General,13
+3095,A03174,United States of America,General,16
+3096,A03175,Japan,Student,1
+3097,A03176,United States of America,Student,3
+3098,A03177,Japan,Student,1
+3099,A03178,United States of America,Student,1
+3100,A03179,China,General,6
+3101,A03180,Taiwan,General,14
+3102,A03182,Japan,Accompanying guest,16
+3103,A03183,Japan,General,5
+3104,A03184,South Africa,General,14
+3105,A03185,Taiwan,Student,7
+3106,A03186,India,General,14
+3107,A03187,China,General,6
+3108,A03188,China,General,14
+3109,A03189,China,General,3
+3110,A03190,China,Student,8
+3111,A03191,China,Student,8
+3112,A03192,China,General,15
+3113,A03193,China,General,
+3114,A03194,Bangladesh,Developing country (*上記注釈をご参照ください),14
+3115,A03195,Korea,Student,16
+3116,A03196,Spain,Student,14
+3117,A03197,Philippines,Developing country (*上記注釈をご参照ください),
+3118,A03198,Korea,General,8
+3119,A03199,Korea,General,9
+3120,A03200,Korea,General,8
+3121,A03201,China,Student,
+3122,A03203,Korea,General,10
+3123,A03204,Korea,General,9
+3124,A03205,Korea,Student,9
+3125,A03206,Korea,Student,9
+3126,A03207,Korea,Student,9
+3127,A03208,Korea,General,9
+3128,A03209,Korea,General,
+3129,A03210,UK,General,
+3130,A03211,UK,General,8
+3131,A03212,UK,General,5
+3132,A03213,China,Student,8
+3133,A03214,China,Student,10
+3134,A03215,Japan,Student,1
+3135,A03216,China,General,
+3136,A03217,Germany,General,7
+3137,A03218,United States of America,General,14
+3138,A03219,United States of America,General,10
+3139,A03220,United States of America,General,
+3140,A03221,United States of America,General,7
+3141,A03222,United States of America,General,14
+3142,A03223,United States of America,General,
+3143,A03224,United States of America,General,7
+3144,A03225,Taiwan,Student,
+3145,A03226,Japan,General,13
+3146,A03227,Austria,General,16
+3147,A03228,United States of America,General,7
+3148,A03229,United States of America,General,7
+3149,A03231,Netherlands,Student,14
+3150,A03232,UK,General,12
+3151,A03234,UK,Student,7
+3152,A03235,United States of America,General,15
+3153,A03237,Japan,General,7
+3154,A03238,United States of America,Student,4
+3155,A03239,China,Student,
+3156,A03240,China,General,1
+3157,A03241,Romania,General,12
+3158,A03243,Japan,General,
+3159,A03244,China,General,
+3160,A03245,Taiwan,Student,
+3161,A03246,Japan,General,3
+3162,A03247,Japan,Student,
+3163,A03248,Greece,General,2
+3164,A03249,Sweden,Student,10
+3165,A03250,Iran,Student,13
+3166,A03251,Italy,General,2
+3167,A03252,Australia,Student,11
+3168,A03253,Estonia,General,15
+3169,A03254,Greece,General,14
+3170,A03255,Chile,General,12
+3171,A03256,United States of America,General,15
+3172,A03257,Japan,General,
+3173,A03258,Romania,General,12
+3174,A03259,China,General,16
+3175,A03260,Denmark,General,5
+3176,A03261,Germany,General,17
+3177,A03263,United States of America,Student,10
+3178,A03264,Singapore,General,16
+3179,A03265,India,Student,17
+3180,A03266,Spain,General,3
+3181,A03267,Spain,General,3
+3182,A03268,Australia,General,3
+3183,A03269,UK,General,11
+3184,A03270,Singapore,General,18
+3185,A03271,Taiwan,General,5
+3186,A03272,United States of America,General,5
+3187,A03273,UK,Student,
+3188,A03274,United States of America,General,14
+3189,A03275,United States of America,General,1
+3190,A03276,Canada,General,15
+3191,A03277,United States of America,General,3
+3192,A03278,Kenya,Developing country (*上記注釈をご参照ください),11
+3193,A03279,UK,General,16
+3194,A03280,Czech Republic,Student,7
+3195,A03281,United States of America,General,
+3196,A03282,United States of America,General,4
+3197,A03283,United States of America,General,6
+3198,A03284,China,General,
+3199,A03288,Korea,Student,14
+3200,A03289,United States of America,General,
+3201,A03290,UK,Student,
+3202,A03291,United States of America,General,
+3203,A03292,Belgium,General,10
+3204,A03293,Belgium,Accompanying guest,
+3205,A03294,New Zealand,General,
+3206,A03295,Germany,General,
+3207,A03296,Australia,General,20
+3208,A03297,United States of America,Student,
+3209,A03300,France,General,4
+3210,A03301,Andorra,General,
+3211,A03302,Pakistan,Developing country (*上記注釈をご参照ください),
+3212,A03303,Australia,General,14
+3213,A03304,China,Student,10
+3214,A03305,Australia,Student,18
+3215,A03306,France,General,15
+3216,A03307,China,General,
+3217,A03308,China,Student,6
+3218,A03309,China,Student,
+3219,A03310,Japan,General,14
+3220,A03311,Japan,General,6
+3221,A03312,China,General,
+3222,A03313,Germany,General,
+3223,A03314,Canada,General,11
+3224,A03315,Canada,General,18
+3225,A03316,China,General,
+3226,A03317,Italy,Accompanying guest,0
+3227,A03318,Colombia,General,1
+3228,A03319,Brazil,General,
+3229,A03320,Romania,Student,3
+3230,A03321,Canada,General,3
+3231,A03322,United States of America,General,
+3232,A03323,Germany,General,10
+3233,A03324,Taiwan,General,
+3234,A03326,Belgium,General,3
+3235,A03327,Korea,General,18
+3236,A03328,Italy,General,
+3237,A03329,China,General,
+3238,A03330,Finland,General,8
+3239,A03331,Czech Republic,General,18
+3240,A03332,Korea,General,
+3241,A03333,China,General,4
+3242,A03334,UK,Student,15
+3243,A03335,Laos,Developing country (*上記注釈をご参照ください),0
+3244,A03336,France,General,10
+3245,A03337,United States of America,General,
+3246,A03338,United States of America,General,
+3247,A03339,Japan,General,
+3248,A03340,China,General,
+3249,A03341,Sierra Leone,Developing country (*上記注釈をご参照ください),
+3250,A03342,Japan,General,
+3251,A03343,France,General,0
+3252,A03344,Turkey,General,14
+3253,A03345,Canada,General,14
+3254,A03346,Italy,General,
+3255,A03347,United States of America,General,3
+3256,A03348,China,General,2
+3257,A03349,France,General,
+3258,A03350,France,General,
+3259,A03351,China,General,
+3260,A03352,China,General,
+3261,A03353,China,General,
+3262,A03354,China,General,
+3263,A03355,China,General,
+3264,A03356,China,General,
+3265,A03357,China,General,
+3266,A03358,China,Accompanying guest,
+3267,A03360,China,General,3
+3268,A03361,China,General,16
+3269,A03362,United States of America,Student,8
+3270,A03363,China,General,2
+3271,A03364,France,General,
+3272,A03365,United States of America,General,
+3273,A03366,China,General,9
+3274,A03367,France,General,14
+3275,A03368,China,General,
+3276,A03369,China,General,
+3277,A03370,Pakistan,Developing country (*上記注釈をご参照ください),
+3278,A03371,Czech Republic,General,3
+3279,A03372,United States of America,General,5
+3280,A03373,Ireland,General,14
+3281,A03374,Philippines,General,15
+3282,A03375,United States of America,General,15
+3283,A03376,China,General,12
+3284,A03377,New Zealand,General,
+3285,A03378,Czech Republic,Student,4
+3286,A03379,Finland,General,18
+3287,A03380,Nigeria,General,
+3288,A03381,Nigeria,General,
+3289,A03382,Nigeria,General,
+3290,A03383,China,General,
+3291,A03385,Japan,Student,
+3292,A03386,Taiwan,General,
+3293,A03387,Taiwan,General,
+3294,A03388,Germany,General,14
+3295,A03389,China,Developing country (*上記注釈をご参照ください),
+3296,A03390,United States of America,General,4
+3297,A03391,China,General,
+3298,A03392,Italy,Student,10
+3299,A03393,Brazil,General,4
+3300,A03394,China,Student,
+3301,A03395,United States of America,General,7
+3302,A03396,New Zealand,General,7
+3303,A03397,China,General,
+3304,A03398,Australia,General,8
+3305,A03399,Thailand,General,13
+3306,A03400,Thailand,General,13
+3307,A03401,China,General,10
+3308,A03402,China,General,
+3309,A03403,China,General,
+3310,A03404,China,General,
+3311,A03405,United States of America,General,
+3312,A03406,China,General,11
+3313,A03407,United States of America,General,5
+3314,A03408,China,General,
+3315,A03409,Australia,General,
+3316,A03410,China,General,
+3317,A03411,China,General,
+3318,A03412,United States of America,General,
+3319,A03413,China,General,2
+3320,A03414,Japan,Student,20
+3321,A03415,China,General,
+3322,A03416,China,General,
+3323,A03417,Switzerland,General,5
+3324,A03418,Australia,General,12
+3325,A03419,China,General,
+3326,A03421,China,Accompanying guest,
+3327,A03422,United States of America,General,7
+3328,A03423,China,General,
+3329,A03424,China,General,
+3330,A03425,China,General,
+3331,A03426,Sweden,Student,10
+3332,A03427,Thailand,General,14
+3333,A03428,China,General,20
+3334,A03429,Taiwan,General,14
+3335,A03430,China,General,0
+3336,A03431,China,General,
+3337,A03432,China,General,
+3338,A03433,China,General,8
+3339,A03434,China,General,
+3340,A03435,South Africa,General,
+3341,A03436,Japan,General,
+3342,A03437,China,General,
+3343,A03439,China,Student,
+3344,A03440,Japan,General,7
+3345,A03441,China,General,
+3346,A03442,China,Student,
+3347,A03444,China,General,20
+3348,A03445,China,General,10
+3349,A03446,China,General,10
+3350,A03447,Germany,Student,
+3351,A03448,China,General,
+3352,A03449,China,General,
+3353,A03450,Korea,General,18
+3354,A03451,China,General,
+3355,A03452,China,Student,
+3356,A03453,Taiwan,Student,
+3357,A03454,United States of America,General,6
+3358,A03455,China,General,5
+3359,A03456,China,General,16
+3360,A03457,China,Student,0
+3361,A03458,China,General,14
+3362,A03459,China,General,14
+3363,A03460,China,General,14
+3364,A03461,United States of America,General,4
+3365,A03462,China,General,3
+3366,A03463,China,Student,
+3367,A03464,China,General,7
+3368,A03465,China,General,8
+3369,A03466,United States of America,General,
+3370,A03467,China,General,17
+3371,A03468,China,General,4
+3372,A03469,China,General,9
+3373,A03470,United States of America,General,17
+3374,A03471,China,General,
+3375,A03472,China,General,16
+3376,A03473,China,General,9
+3377,A03474,China,General,
+3378,A03475,China,General,20
+3379,A03476,Malaysia,General,14
+3380,A03477,China,General,
+3381,A03478,China,General,
+3382,A03479,China,General,6
+3383,A03480,China,General,6
+3384,A03481,China,General,20
+3385,A03482,Colombia,General,18
+3386,A03483,China,Developing country (*上記注釈をご参照ください),
+3387,A03484,Brazil,General,2
+3388,A03485,UK,Student,16
+3389,A03487,China,General,
+3390,A03488,Taiwan,Accompanying guest,17
+3391,A03489,China,General,
+3392,A03490,Japan,General,
+3393,A03491,China,General,2
+3394,A03492,China,Student,
+3395,A03494,China,General,5
+3396,A03495,China,General,
+3397,A03496,China,General,16
+3398,A03497,Japan,Accompanying guest,
+3399,A03498,China,General,20
+3400,A03499,China,General,
+3401,A03500,Nigeria,Developing country (*上記注釈をご参照ください),
+3402,A03501,China,General,
+3403,A03502,Canada,General,
+3404,A03503,China,Developing country (*上記注釈をご参照ください),
+3405,A03504,China,Developing country (*上記注釈をご参照ください),
+3406,A03505,China,General,
+3407,A03506,France,General,3
+3408,A03508,China,General,
+3409,A03509,Greece,General,14
+3410,A03510,China,General,
+3411,A03511,Japan,General,
+3412,A03512,Japan,General,14
+3413,A03513,China,General,0
+3414,A03514,China,General,15
+3415,A03515,Japan,General,
+3416,A03516,Japan,General,15
+3417,A03517,China,General,
+3418,A03518,China,General,
+3419,A03519,Japan,General,3
+3420,A03520,South Africa,General,14
+3421,A03521,Japan,General,16
+3422,A03522,UK,General,20
+3423,A03523,China,Student,
+3424,A03524,China,General,
+3425,A03525,China,General,15
+3426,A03526,Canada,Accompanying guest,0
+3427,A03527,China,General,
+3428,A03528,China,General,
+3429,A03529,India,Accompanying guest,
+3430,A03530,UK,General,
+3431,A03531,UK,General,20
+3432,A03532,Bangladesh,Student,
+3433,A03533,China,General,3
+3434,A03534,China,General,
+3435,A03535,China,General,
+3436,A03536,UK,General,7
+3437,A03537,United States of America,General,0
+3438,A03538,United States of America,Accompanying guest,
+3439,A03539,China,General,
+3440,A03540,Brazil,General,18
+3441,A03541,China,General,
+3442,A03542,United States of America,General,
+3443,A03543,Israel,Accompanying guest,
+3444,A03544,China,General,
+3445,A03545,UK,Accompanying guest,
+3446,A03546,China,General,17
+3447,A03547,China,General,
+3448,A03548,China,Student,17
+3449,A03549,China,Developing country (*上記注釈をご参照ください),
+3450,A03550,UK,General,20
+3451,A03551,China,Student,
+3452,A03552,China,General,3
+3453,A03553,China,Student,
+3454,A03555,China,General,
+3455,A03556,China,General,13
+3456,A03557,China,General,
+3457,A03558,Singapore,General,
+3458,A03559,United States of America,General,
+3459,A03561,Japan,General,
+3460,A03562,Argentine,General,7
+3461,A03563,Taiwan,General,14
+3462,A03564,China,Student,10
+3463,A03565,United States of America,Student,8
+3464,A03566,United States of America,Accompanying guest,
+3465,A03567,China,General,
+3466,A03568,China,Student,
+3467,A03569,UK,Student,7
+3468,A03570,China,General,
+3469,A03571,China,General,
+3470,A03572,China,General,
+3471,A03573,Saudi Arabia,General,
+3472,A03574,Japan,General,0
+3473,A03575,China,General,
+3474,A03576,China,General,
+3475,A03577,China,General,
+3476,A03578,China,General,
+3477,A03579,China,General,
+3478,A03580,China,General,
+3479,A03581,Taiwan,General,12
+3480,A03582,China,General,
+3481,A03583,Singapore,General,
+3482,A03584,UK,General,14
+3483,A03585,China,General,
+3484,A03586,New Zealand,General,18
+3485,A03587,Germany,General,13
+3486,A03588,UK,General,
+3487,A03589,China,Developing country (*上記注釈をご参照ください),11
+3488,A03590,Japan,Accompanying guest,
+3489,A03591,Japan,General,5
+3490,A03593,China,General,8
+3491,A03594,China,General,0
+3492,A03595,China,General,10
+3493,A03596,China,Student,
+3494,A03597,Australia,General,14
+3495,A03598,United States of America,General,
+3496,A03599,Japan,General,4
+3497,A03600,Japan,General,4
+3498,A03601,Kenya,Developing country (*上記注釈をご参照ください),
+3499,A03602,Italy,General,3
+3500,A03603,China,General,
+3501,A03604,China,General,10
+3502,A03605,Belgium,Accompanying guest,
+3503,A03606,United States of America,General,
+3504,A03607,United States of America,Accompanying guest,
+3505,A03608,China,General,
+3506,A03609,China,General,4
+3507,A03610,China,General,
+3508,A03611,China,Student,
+3509,A03612,China,General,
+3510,A03613,China,General,
+3511,A03614,China,General,
+3512,A03615,Japan,General,
+3513,A03616,China,General,7
+3514,A03617,United States of America,Accompanying guest,20
+3515,A03618,Australia,General,14
+3516,A03619,China,General,
+3517,A03620,China,Student,
+3518,A03621,China,General,
+3519,A03622,China,General,
+3520,A03623,China,Student,
+3521,A03624,China,Student,
+3522,A03625,China,General,
+3523,A03626,Australia,General,
+3524,A03627,China,Student,
+3525,A03628,Japan,General,14
+3526,A03629,China,Student,
+3527,A03630,United States of America,General,
+3528,A03631,United States of America,General,
+3529,A03632,United States of America,Student,
+3530,A03633,China,General,
+3531,A03634,China,General,
+3532,A03635,Japan,General,20
+3533,A03636,China,General,
+3534,A03637,China,General,
+3535,A03638,China,General,
+3536,A03639,China,General,15
+3537,A03640,China,Student,
+3538,A03641,Italy,General,
+3539,A03642,China,General,3
+3540,A03643,China,General,
+3541,A03644,United States of America,General,8
+3542,A03645,United States of America,Student,
+3543,A03646,United States of America,Student,20
+3544,A03647,Sweden,General,
+3545,A03648,Sweden,General,5
+3546,A03649,China,General,
+3547,A03650,France,General,
+3548,A03651,Japan,General,
+3549,A03652,Japan,General,3
+3550,A03653,Germany,General,5
+3551,A03654,Japan,General,16
+3552,A03655,United States of America,General,20
+3553,A03656,Japan,General,7
+3554,A03657,Australia,Accompanying guest,0
+3555,A03658,South Africa,General,
+3556,A03659,China,Student,16
+3557,A03660,Korea,Student,17
+3558,A03661,Thailand,General,3
+3559,A03662,Japan,General,3
+3560,A03663,Greece,General,
+3561,A03664,United States of America,General,14
+3562,A03665,China,General,18
+3563,A03666,Japan,Accompanying guest,15
+3564,A03667,United States of America,Student,
+3565,A03668,United States of America,General,
+3566,A03669,Japan,General,3
+3567,A03670,United States of America,Accompanying guest,
+3568,A03671,China,Student,6
+3569,A03672,United States of America,General,18
+3570,A03673,United States of America,General,
+3571,A03674,China,General,
+3572,A03675,Malaysia,General,
+3573,A03676,Pakistan,Developing country (*上記注釈をご参照ください),
+3574,A03677,Japan,General,
+3575,A03678,Pakistan,Developing country (*上記注釈をご参照ください),
+3576,A03679,United States of America,Student,
+3577,A03680,United States of America,Student,18
+3578,A03681,China,Student,
+3579,A03682,Japan,General,7
+3580,A03683,China,General,4
+3581,A03684,Canada,Accompanying guest,
+3582,A03685,United States of America,General,
+3583,A03686,China,General,
+3584,A03687,United States of America,General,
+3585,A03688,United States of America,General,13
+3586,A03689,China,General,
+3587,A03690,China,General,
+3588,A03691,Japan,General,4
+3589,A03692,Japan,General,17
+3590,A03694,China,General,7
+3591,A03695,United States of America,General,15
+3592,A03696,Malaysia,General,15
+3593,A03697,Japan,General,2
+3594,A03699,China,Accompanying guest,
+3595,A03700,China,General,
+3596,A03702,Netherlands,General,13
+3597,A03703,Japan,General,18
+3598,A03704,Japan,Student,
+3599,A03705,Japan,Student,
+3600,A03706,Japan,Student,
+3601,A03707,Japan,Student,
+3602,A03708,Japan,Student,
+3603,A03709,Japan,Student,0
+3604,A03710,Japan,Student,
+3605,A03711,Japan,Student,
+3606,A03712,Japan,Student,
+3607,A03713,Japan,Student,
+3608,A03714,Japan,Student,7
+3609,A03715,Japan,Student,
+3610,A03716,Japan,Student,
+3611,A03717,Japan,Student,
+3612,A03718,Japan,Student,
+3613,A03719,Japan,Student,
+3614,A03720,Japan,Student,
+3615,A03721,Japan,Student,
+3616,A03722,Japan,General,
+3617,A03723,Brazil,Student,3
+3618,A03724,Australia,General,14
+3619,A03725,South Africa,General,
+3620,A03726,Argentine,Student,
+3621,A03727,Korea,Student,
+3622,A03728,Korea,Student,
+3623,A03729,Korea,Student,
+3624,A03730,Korea,Student,
+3625,A03731,Japan,Student,
+3626,A03732,Turkey,Accompanying guest,
+3627,A03733,Italy,General,14
+3628,A03734,China,General,
+3629,A03735,United States of America,General,15
+3630,A03736,Japan,Student,
+3631,A03737,Japan,Student,
+3632,A03738,Japan,Student,
+3633,A03739,Japan,Student,
+3634,A03740,Japan,Student,
+3635,A03741,Japan,Student,3
+3636,A03742,Japan,Student,
+3637,A03743,Japan,Student,
+3638,A03744,Japan,Student,
+3639,A03745,Japan,Student,
+3640,A03746,Kenya,General,
+3641,A03747,Japan,Guest (*このカテゴリは選択しないでください),
+3642,A03748,Japan,Guest (*このカテゴリは選択しないでください),
+3643,A03749,Japan,Guest (*このカテゴリは選択しないでください),
+3644,A03750,China,General,3
+3645,A03751,Japan,Guest (*このカテゴリは選択しないでください),
+3646,A03752,Japan,Guest (*このカテゴリは選択しないでください),
+3647,A03753,Japan,Guest (*このカテゴリは選択しないでください),
+3648,A03754,Japan,Guest (*このカテゴリは選択しないでください),
+3649,A03755,Japan,Guest (*このカテゴリは選択しないでください),
+3650,A03756,Japan,Guest (*このカテゴリは選択しないでください),3
+3651,A03757,Japan,Guest (*このカテゴリは選択しないでください),
+3652,A03758,Japan,Guest (*このカテゴリは選択しないでください),
+3653,A03759,Japan,Guest (*このカテゴリは選択しないでください),0
+3654,A03760,China,Student,
+3655,A03761,Kenya,Developing country (*上記注釈をご参照ください),11
+3656,A03762,Canada,General,8
+3657,A03763,Japan,Guest (*このカテゴリは選択しないでください),0
+3658,A03764,Japan,Guest (*このカテゴリは選択しないでください),
+3659,A03765,Japan,Guest (*このカテゴリは選択しないでください),14
+3660,A03766,Japan,Guest (*このカテゴリは選択しないでください),6
+3661,A03767,China,General,16
+3662,A03768,Japan,Student,18
+3663,A03769,South Africa,General,
+3664,A03770,Italy,General,
+3665,A03771,United States of America,General,
+3666,A03772,Canada,Accompanying guest,5
+3667,A03773,Portugal,General,
+3668,A03774,Japan,Student,
+3669,A03775,Japan,General,7
+3670,A03776,China,General,
+3671,A03777,China,Developing country (*上記注釈をご参照ください),
+3672,A03778,China,General,
+3673,A03780,United States of America,General,4
+3674,A03781,Japan,General,15
+3675,A03782,China,Student,
+3676,A03783,China,Developing country (*上記注釈をご参照ください),
+3677,A03784,Japan,General,
+3678,A03785,China,General,20
+3679,A03786,China,General,20
+3680,A03787,Japan,General,14
+3681,A03788,Japan,General,
+3682,A03789,Japan,General,0
+3683,A03790,Japan,General,
+3684,A03791,Japan,Student,0
+3685,A03792,Japan,Student,
+3686,A03793,Japan,Student,0
+3687,A03794,Brazil,General,14
+3688,A03795,United States of America,General,
+3689,A03796,Japan,General,18
+3690,A03797,Japan,General,
+3691,A03798,Japan,Student,
+3692,A03799,China,General,18
+3693,A03800,Japan,General,14
+3694,A03801,Japan,Accompanying guest,
+3695,A03802,Japan,General,0
+3696,A03803,Japan,General,14
+3697,A03804,Germany,Accompanying guest,
+3698,A03805,United States of America,Guest (*このカテゴリは選択しないでください),
+3699,A03806,Japan,General,15
+3700,A03807,Japan,Student,18
+3701,A03808,Korea,General,18
+3702,A03809,Taiwan,General,
+3703,A03810,China,General,
+3704,A03811,Croatia,Student,0
+3705,A03812,China,General,
+3706,A03813,United States of America,General,
+3707,A03814,China,General,
+3708,A03815,United States of America,General,14
+3709,A03816,United States of America,Student,10
+3710,A03817,United States of America,General,
+3711,A03818,Japan,General,
+3712,A03819,United States of America,General,
+3713,A03820,Thailand,General,11
+3714,A03821,Argentine,General,7
+3715,A03822,Kenya,General,13
+3716,A03823,Japan,General,16
+3717,A03825,Japan,Guest (*このカテゴリは選択しないでください),20
+3718,A03826,Japan,Guest (*このカテゴリは選択しないでください),
+3719,A03827,China,General,
+3720,A03828,Japan,General,3
+3721,A03829,Japan,General,14
+3722,A03830,Greece,General,
+3723,A03831,China,General,
+3724,A03833,China,General,
+3725,A03834,China,Student,7
+3726,A03835,United States of America,General,13
+3727,A03836,United States of America,Accompanying guest,
+3728,A03837,Japan,General,
+3729,A03838,United States of America,General,
+3730,A03839,United States of America,General,
+3731,A03840,United States of America,Accompanying guest,
+3732,A03841,Brazil,General,3
+3733,A03842,United States of America,Accompanying guest,
+3734,A03843,Japan,General,14
+3735,A03844,Korea,Student,7
+3736,A03845,United States of America,Accompanying guest,
+3737,A03846,United States of America,General,18
+3738,A03847,Korea,General,
+3739,A03848,Korea,General,
+3740,A03849,South Africa,General,3
+3741,A03850,Germany,Student,17
+3742,A03851,Australia,General,
+3743,A03852,UK,General,
+3744,A03853,China,General,0
+3745,A03854,Japan,Student,14
+3746,A03855,Myanmar,Student,20
+3747,A03856,Nigeria,General,
+3748,A03857,South Africa,Student,
+3749,A03858,United States of America,General,
+3750,A03859,Japan,General,
+3751,A03860,China,General,7
+3752,A03861,United States of America,Accompanying guest,
+3753,A03862,Japan,General,20
+3754,A03863,Brazil,General,4
+3755,A03864,United States of America,General,
+3756,A03865,United States of America,General,
+3757,A03866,Japan,General,
+3758,A03867,Japan,General,15
+3759,A03868,UK,General,
+3760,A03869,Hungary,General,5
+3761,A03870,Korea,Student,16
+3762,A03871,UK,Student,8
+3763,A03872,United States of America,General,
+3764,A03873,South Africa,General,
+3765,A03874,Japan,General,14
+3766,A03875,Japan,General,15
+3767,A03876,India,General,15
+3768,A03877,Japan,General,19
+3769,A03878,Thailand,General,12
+3770,A03879,Germany,Accompanying guest,
+3771,A03880,United States of America,General,0
+3772,A03881,Germany,General,
+3773,A03882,United States of America,General,14
+3774,A03883,Australia,General,3
+3775,A03884,Czech Republic,General,
+3776,A03885,Italy,General,3
+3777,A03886,Japan,General,7
+3778,A03887,United States of America,General,
+3779,A03888,United States of America,Accompanying guest,
+3780,A03889,Japan,General,
+3781,A03890,Japan,Student,0
+3782,A03891,Pakistan,General,
+3783,A03892,Italy,General,
+3784,A03893,Taiwan,General,3
+3785,A03894,Japan,General,
+3786,A03895,Philippines,Developing country (*上記注釈をご参照ください),
+3787,A03896,United States of America,General,13
+3788,A03897,Japan,General,
+3789,A03898,Japan,General,13
+3790,A03900,China,General,
+3791,A03901,China,General,
+3792,A03902,China,General,
+3793,A03903,Japan,Student,0
+3794,A03904,UK,General,7
+3795,A03905,Taiwan,General,14
+3796,A03906,Japan,Student,7
+3797,A03907,Japan,Student,18
+3798,A03908,Thailand,General,15
+3799,A03909,Japan,General,
+3800,A03910,United States of America,Accompanying guest,
+3801,A03911,United States of America,General,14
+3802,A03912,Korea,General,18
+3803,A03913,Japan,General,0
+3804,A03914,United States of America,General,14
+3805,A03915,Japan,General,
+3806,A03916,Japan,General,19
+3807,A03917,China,General,
+3808,A03918,China,General,7
+3809,A03919,Japan,General,18
+3810,A03920,UK,General,17
+3811,A03921,Japan,General,
+3812,A03922,Japan,General,
+3813,A03923,Japan,General,7
+3814,A03924,Japan,General,0
+3815,A03925,Japan,General,
+3816,A03926,UK,General,
+3817,A03927,Japan,Student,5
+3818,A03928,Japan,Student,7
+3819,A03929,Taiwan,General,
+3820,A03930,Thailand,General,18
+3821,A03931,Japan,General,20
+3822,A03932,Japan,General,14
+3823,A03933,Japan,General,15
+3824,A03934,Japan,General,
+3825,A03935,China,General,
+3826,A03936,Japan,General,18
+3827,A03937,Japan,Student,7
+3828,A03938,Japan,General,7
+3829,A03939,Israel,Accompanying guest,
+3830,A03940,Japan,Student,14
+3831,A03941,Korea,General,10
+3832,A03942,Japan,General,13
+3833,A03943,Taiwan,Student,
+3834,A03944,Taiwan,General,3
+3835,A03945,Taiwan,Student,3
+3836,A03946,China,General,
+3837,A03947,Japan,General,
+3838,A03948,Germany,General,18
+3839,A03949,Greece,General,
+3840,A03950,Singapore,General,20
+3841,A03951,Japan,General,7
+3842,A03952,United States of America,General,
+3843,A03953,Korea,Student,10
+3844,A03954,Japan,General,0
+3845,A03955,Japan,General,
+3846,A03956,United States of America,General,14
+3847,A03958,Korea,General,4
+3848,A03959,Japan,General,15
+3849,A03960,Korea,General,10
+3850,A03961,Japan,Student,
+3851,A03962,Japan,General,
+3852,A03963,Japan,General,
+3853,A03964,Japan,Student,
+3854,A03965,United States of America,Student,
+3855,A03966,United States of America,Student,18
+3856,A03967,Canada,General,
+3857,A03968,United States of America,General,0
+3858,A03969,United States of America,General,
+3859,A03970,Japan,General,
+3860,A03971,Japan,General,19
+3861,A03972,Japan,Student,3
+3862,A03973,Japan,Student,11
+3863,A03974,Japan,General,
+3864,A03975,Japan,General,6
+3865,A03976,United States of America,General,20
+3866,A03977,Japan,General,20
+3867,A03978,Japan,Student,10
+3868,A03979,Japan,General,
+3869,A03980,Korea,Student,
+3870,A03981,Korea,Student,
+3871,A03982,Japan,Student,7
+3872,A03983,Korea,Student,
+3873,A03984,Japan,General,
+3874,A03985,Korea,Student,10
+3875,A03986,Denmark,Student,7
+3876,A03987,Japan,General,16
+3877,A03988,Japan,General,7
+3878,A03989,Japan,Accompanying guest,20
+3879,A03990,Japan,Accompanying guest,
+3880,A03991,Japan,Student,20
+3881,A03992,Japan,General,
+3882,A03993,Japan,General,15
+3883,A03994,Japan,Student,
+3884,A03995,Taiwan,General,
+3885,A03996,Japan,Student,
+3886,A03997,Japan,General,0
+3887,A03998,Italy,Student,
+3888,A03999,United States of America,Accompanying guest,
+3889,A04000,United States of America,General,7
+3890,A04001,United States of America,General,
+3891,A04002,United States of America,General,0
+3892,A04003,Japan,General,18
+3893,A04004,Japan,General,18
+3894,A04005,Tanzania,(On-Site)Developing Countries (*上記注釈をご参照ください),13
+3895,A04006,Japan,(On-Site)General,
+3896,A04007,Japan,(On-Site)Students,6
+3897,A04008,Japan,(On-Site)General,12
+3898,A04009,United States of America,(On-Site)General,8
+3899,A04010,Germany,(On-Site)General,3
+3900,A04011,Japan,(On-Site)General,0
+3901,A04012,Japan,(On-Site)General,2
+3902,A04013,Taiwan,(On-Site)Students,
+3903,A04015,Japan,(On-Site)General,18
+3904,A04016,Germany,(On-Site)General,
+3905,A04017,United States of America,(On-Site)General,20
+3906,A04018,Japan,Guest (*このカテゴリは選択しないでください),7
+3907,A04019,Germany,Guest (*このカテゴリは選択しないでください),
+3908,A04020,United States of America,(On-Site)General,
+3909,A04021,Canada,(On-Site)Accompaying guest,
+3910,A04022,Japan,(On-Site)Students,18
+3911,A04023,United States of America,(On-Site)Accompaying guest,
+3912,A04024,Nigeria,(On-Site)General,
+3913,A04025,United States of America,(On-Site)Students,7
+3914,A04026,Australia,(On-Site)General,
+3915,A04027,Japan,(On-Site)Accompaying guest,
+3916,A04028,Japan,(On-Site)Accompaying guest,
+3917,A04029,Belgium,(On-Site)General,10
+3918,A04030,United States of America,(On-Site)General,
+3919,A04031,United States of America,(On-Site)General,
+3920,A04032,Italy,(On-Site)General,14
+3921,A04033,Japan,(On-Site)General,6
+3922,A04034,United States of America,(On-Site)General,18
+3923,A04035,Japan,(On-Site)General,
+3924,A04036,India,(On-Site)Developing Countries (*上記注釈をご参照ください),
+3925,A04037,Japan,(On-Site)General,20
+3926,A04038,Taiwan,(On-Site)General,19
+3927,A04039,Japan,(On-Site)Students,20
+3928,A04040,Japan,(On-Site)General,7
+3929,A04041,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,20
+3930,A04042,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,2
+3931,A04043,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,5
+3932,A04044,Japan,(On-Site)Students,13
+3933,A04045,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,20
+3934,A04046,Korea,(On-Site)Students,10
+3935,A04047,Korea,(On-Site)General,
+3936,A04048,UK,(On-Site)General,
+3937,A04049,Korea,(On-Site)General,
+3938,A04050,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,8
+3939,A04051,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3940,A04052,Japan,(On-Site)Students,14
+3941,A04053,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,5
+3942,A04054,Japan,(On-Site)General,
+3943,A04055,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,14
+3944,A04056,United States of America,Guest (*このカテゴリは選択しないでください),
+3945,A04057,Ecuador,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3946,A04058,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3947,A04059,Japan,(On-Site)Students,
+3948,A04060,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3949,A04061,Taiwan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3950,A04062,Japan,(On-Site)General,14
+3951,A04063,Japan,(On-Site)General,16
+3952,A04065,United States of America,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3953,A04066,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3954,A04067,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,18
+3955,A04068,Japan,(On-Site)General,
+3956,A04069,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3957,A04070,Korea,(On-Site)General,7
+3958,A04071,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,7
+3959,A04072,Korea,(On-Site)General,7
+3960,A04073,Korea,(On-Site)General,
+3961,A04074,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,20
+3962,A04075,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3963,A04076,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3964,A04077,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,3
+3965,A04078,United States of America,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3966,A04079,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3967,A04080,Japan,(On-Site)General,8
+3968,A04081,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,0
+3969,A04083,Japan,(On-Site)Students,20
+3970,A04084,Italy,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
+3971,A04085,Japan,One Day Pass *1日券を購入する場合、この項目にチェックを入れたうえで次の質問で来場日を選択してください。,
