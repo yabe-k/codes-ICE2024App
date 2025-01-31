@@ -1,3 +1,5 @@
+Dataset and codes used for paper "Breaking barriers in academic communication: Insights from a novel face-to-face interaction tracking app at an international conference" (Yabe et al., in prep)
+
 # Files
 
 ## presentations_raw.csv (not publicly available)
